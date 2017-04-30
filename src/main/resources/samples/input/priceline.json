@@ -1,0 +1,4804 @@
+{
+  "results": [
+    {
+      "agony": 1.8009004502251125,
+      "price": 1999,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T01:44:00",
+      "flight_num": "UA1001",
+      "depart_time": "2017-04-26T00:44:00"
+    },
+    {
+      "agony": 1.802704056084126,
+      "price": 1997,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T03:44:00",
+      "flight_num": "UA1003",
+      "depart_time": "2017-04-26T02:44:00"
+    },
+    {
+      "agony": 1.8045112781954886,
+      "price": 1995,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T05:44:00",
+      "flight_num": "UA1005",
+      "depart_time": "2017-04-26T04:44:00"
+    },
+    {
+      "agony": 1.8063221274460612,
+      "price": 1993,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T07:44:00",
+      "flight_num": "UA1007",
+      "depart_time": "2017-04-26T06:44:00"
+    },
+    {
+      "agony": 1.808136614766449,
+      "price": 1991,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T09:44:00",
+      "flight_num": "UA1009",
+      "depart_time": "2017-04-26T08:44:00"
+    },
+    {
+      "agony": 1.8099547511312217,
+      "price": 1989,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T11:44:00",
+      "flight_num": "UA1011",
+      "depart_time": "2017-04-26T10:44:00"
+    },
+    {
+      "agony": 1.8117765475591343,
+      "price": 1987,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T13:44:00",
+      "flight_num": "UA1013",
+      "depart_time": "2017-04-26T12:44:00"
+    },
+    {
+      "agony": 1.81360201511335,
+      "price": 1985,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T15:44:00",
+      "flight_num": "UA1015",
+      "depart_time": "2017-04-26T14:44:00"
+    },
+    {
+      "agony": 1.8154311649016641,
+      "price": 1983,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T17:44:00",
+      "flight_num": "UA1017",
+      "depart_time": "2017-04-26T16:44:00"
+    },
+    {
+      "agony": 1.8172640080767288,
+      "price": 1981,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T19:44:00",
+      "flight_num": "UA1019",
+      "depart_time": "2017-04-26T18:44:00"
+    },
+    {
+      "agony": 1.8494188984335522,
+      "price": 1979,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T21:45:00",
+      "flight_num": "UA1021",
+      "depart_time": "2017-04-26T20:44:00"
+    },
+    {
+      "agony": 1.8512898330804248,
+      "price": 1977,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-26T23:45:00",
+      "flight_num": "UA1023",
+      "depart_time": "2017-04-26T22:44:00"
+    },
+    {
+      "agony": 1.8531645569620254,
+      "price": 1975,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T01:45:00",
+      "flight_num": "UA1025",
+      "depart_time": "2017-04-27T00:44:00"
+    },
+    {
+      "agony": 1.855043081601622,
+      "price": 1973,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T03:45:00",
+      "flight_num": "UA1027",
+      "depart_time": "2017-04-27T02:44:00"
+    },
+    {
+      "agony": 1.856925418569254,
+      "price": 1971,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T05:45:00",
+      "flight_num": "UA1029",
+      "depart_time": "2017-04-27T04:44:00"
+    },
+    {
+      "agony": 1.8588115794819706,
+      "price": 1969,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T07:45:00",
+      "flight_num": "UA1031",
+      "depart_time": "2017-04-27T06:44:00"
+    },
+    {
+      "agony": 1.860701576004067,
+      "price": 1967,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T09:45:00",
+      "flight_num": "UA1033",
+      "depart_time": "2017-04-27T08:44:00"
+    },
+    {
+      "agony": 1.8625954198473282,
+      "price": 1965,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T11:45:00",
+      "flight_num": "UA1035",
+      "depart_time": "2017-04-27T10:44:00"
+    },
+    {
+      "agony": 1.8644931227712684,
+      "price": 1963,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T13:45:00",
+      "flight_num": "UA1037",
+      "depart_time": "2017-04-27T12:44:00"
+    },
+    {
+      "agony": 1.8663946965833758,
+      "price": 1961,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T15:45:00",
+      "flight_num": "UA1039",
+      "depart_time": "2017-04-27T14:44:00"
+    },
+    {
+      "agony": 1.898928024502297,
+      "price": 1959,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T17:46:00",
+      "flight_num": "UA1041",
+      "depart_time": "2017-04-27T16:44:00"
+    },
+    {
+      "agony": 1.9008686765457332,
+      "price": 1957,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T19:46:00",
+      "flight_num": "UA1043",
+      "depart_time": "2017-04-27T18:44:00"
+    },
+    {
+      "agony": 1.9028132992327367,
+      "price": 1955,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T21:46:00",
+      "flight_num": "UA1045",
+      "depart_time": "2017-04-27T20:44:00"
+    },
+    {
+      "agony": 1.9047619047619047,
+      "price": 1953,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-27T23:46:00",
+      "flight_num": "UA1047",
+      "depart_time": "2017-04-27T22:44:00"
+    },
+    {
+      "agony": 1.9067145053818555,
+      "price": 1951,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T01:46:00",
+      "flight_num": "UA1049",
+      "depart_time": "2017-04-28T00:44:00"
+    },
+    {
+      "agony": 1.9086711133914829,
+      "price": 1949,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T03:46:00",
+      "flight_num": "UA1051",
+      "depart_time": "2017-04-28T02:44:00"
+    },
+    {
+      "agony": 1.9106317411402156,
+      "price": 1947,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T05:46:00",
+      "flight_num": "UA1053",
+      "depart_time": "2017-04-28T04:44:00"
+    },
+    {
+      "agony": 1.9125964010282777,
+      "price": 1945,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T07:46:00",
+      "flight_num": "UA1055",
+      "depart_time": "2017-04-28T06:44:00"
+    },
+    {
+      "agony": 1.914565105506948,
+      "price": 1943,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T09:46:00",
+      "flight_num": "UA1057",
+      "depart_time": "2017-04-28T08:44:00"
+    },
+    {
+      "agony": 1.9165378670788253,
+      "price": 1941,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T11:46:00",
+      "flight_num": "UA1059",
+      "depart_time": "2017-04-28T10:44:00"
+    },
+    {
+      "agony": 1.9494584837545126,
+      "price": 1939,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T13:47:00",
+      "flight_num": "UA1061",
+      "depart_time": "2017-04-28T12:44:00"
+    },
+    {
+      "agony": 1.9514713474445018,
+      "price": 1937,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T15:47:00",
+      "flight_num": "UA1063",
+      "depart_time": "2017-04-28T14:44:00"
+    },
+    {
+      "agony": 1.9534883720930232,
+      "price": 1935,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T17:47:00",
+      "flight_num": "UA1065",
+      "depart_time": "2017-04-28T16:44:00"
+    },
+    {
+      "agony": 1.9555095706156234,
+      "price": 1933,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T19:47:00",
+      "flight_num": "UA1067",
+      "depart_time": "2017-04-28T18:44:00"
+    },
+    {
+      "agony": 1.9575349559813569,
+      "price": 1931,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T21:47:00",
+      "flight_num": "UA1069",
+      "depart_time": "2017-04-28T20:44:00"
+    },
+    {
+      "agony": 1.9595645412130638,
+      "price": 1929,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-28T23:47:00",
+      "flight_num": "UA1071",
+      "depart_time": "2017-04-28T22:44:00"
+    },
+    {
+      "agony": 1.9615983393876493,
+      "price": 1927,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T01:47:00",
+      "flight_num": "UA1073",
+      "depart_time": "2017-04-29T00:44:00"
+    },
+    {
+      "agony": 1.9636363636363636,
+      "price": 1925,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T03:47:00",
+      "flight_num": "UA1075",
+      "depart_time": "2017-04-29T02:44:00"
+    },
+    {
+      "agony": 1.965678627145086,
+      "price": 1923,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T05:47:00",
+      "flight_num": "UA1077",
+      "depart_time": "2017-04-29T04:44:00"
+    },
+    {
+      "agony": 1.967725143154607,
+      "price": 1921,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T07:47:00",
+      "flight_num": "UA1079",
+      "depart_time": "2017-04-29T06:44:00"
+    },
+    {
+      "agony": 2.0010422094841065,
+      "price": 1919,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T09:48:00",
+      "flight_num": "UA1081",
+      "depart_time": "2017-04-29T08:44:00"
+    },
+    {
+      "agony": 2.003129890453834,
+      "price": 1917,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T11:48:00",
+      "flight_num": "UA1083",
+      "depart_time": "2017-04-29T10:44:00"
+    },
+    {
+      "agony": 2.0052219321148823,
+      "price": 1915,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T13:48:00",
+      "flight_num": "UA1085",
+      "depart_time": "2017-04-29T12:44:00"
+    },
+    {
+      "agony": 2.007318348144276,
+      "price": 1913,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T15:48:00",
+      "flight_num": "UA1087",
+      "depart_time": "2017-04-29T14:44:00"
+    },
+    {
+      "agony": 2.009419152276295,
+      "price": 1911,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T17:48:00",
+      "flight_num": "UA1089",
+      "depart_time": "2017-04-29T16:44:00"
+    },
+    {
+      "agony": 2.0115243583027764,
+      "price": 1909,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T19:48:00",
+      "flight_num": "UA1091",
+      "depart_time": "2017-04-29T18:44:00"
+    },
+    {
+      "agony": 2.0136339800734135,
+      "price": 1907,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T21:48:00",
+      "flight_num": "UA1093",
+      "depart_time": "2017-04-29T20:44:00"
+    },
+    {
+      "agony": 2.015748031496063,
+      "price": 1905,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-29T23:48:00",
+      "flight_num": "UA1095",
+      "depart_time": "2017-04-29T22:44:00"
+    },
+    {
+      "agony": 2.0178665265370466,
+      "price": 1903,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T01:48:00",
+      "flight_num": "UA1097",
+      "depart_time": "2017-04-30T00:44:00"
+    },
+    {
+      "agony": 2.0199894792214623,
+      "price": 1901,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T03:48:00",
+      "flight_num": "UA1099",
+      "depart_time": "2017-04-30T02:44:00"
+    },
+    {
+      "agony": 2.0537124802527646,
+      "price": 1899,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T05:49:00",
+      "flight_num": "UA1101",
+      "depart_time": "2017-04-30T04:44:00"
+    },
+    {
+      "agony": 2.0558777016341594,
+      "price": 1897,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T07:49:00",
+      "flight_num": "UA1103",
+      "depart_time": "2017-04-30T06:44:00"
+    },
+    {
+      "agony": 2.058047493403694,
+      "price": 1895,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T09:49:00",
+      "flight_num": "UA1105",
+      "depart_time": "2017-04-30T08:44:00"
+    },
+    {
+      "agony": 2.0602218700475436,
+      "price": 1893,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T11:49:00",
+      "flight_num": "UA1107",
+      "depart_time": "2017-04-30T10:44:00"
+    },
+    {
+      "agony": 2.0624008461131678,
+      "price": 1891,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T13:49:00",
+      "flight_num": "UA1109",
+      "depart_time": "2017-04-30T12:44:00"
+    },
+    {
+      "agony": 2.0645844362096346,
+      "price": 1889,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T15:49:00",
+      "flight_num": "UA1111",
+      "depart_time": "2017-04-30T14:44:00"
+    },
+    {
+      "agony": 2.066772655007949,
+      "price": 1887,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T17:49:00",
+      "flight_num": "UA1113",
+      "depart_time": "2017-04-30T16:44:00"
+    },
+    {
+      "agony": 2.0689655172413794,
+      "price": 1885,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T19:49:00",
+      "flight_num": "UA1115",
+      "depart_time": "2017-04-30T18:44:00"
+    },
+    {
+      "agony": 2.0711630377057886,
+      "price": 1883,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T21:49:00",
+      "flight_num": "UA1117",
+      "depart_time": "2017-04-30T20:44:00"
+    },
+    {
+      "agony": 2.073365231259968,
+      "price": 1881,
+      "provider": "Priceline",
+      "arrive_time": "2017-04-30T23:49:00",
+      "flight_num": "UA1119",
+      "depart_time": "2017-04-30T22:44:00"
+    },
+    {
+      "agony": 2.1075039914848324,
+      "price": 1879,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T01:50:00",
+      "flight_num": "UA1121",
+      "depart_time": "2017-05-01T00:44:00"
+    },
+    {
+      "agony": 2.109749600426212,
+      "price": 1877,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T03:50:00",
+      "flight_num": "UA1123",
+      "depart_time": "2017-05-01T02:44:00"
+    },
+    {
+      "agony": 2.112,
+      "price": 1875,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T05:50:00",
+      "flight_num": "UA1125",
+      "depart_time": "2017-05-01T04:44:00"
+    },
+    {
+      "agony": 2.1142552055525896,
+      "price": 1873,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T07:50:00",
+      "flight_num": "UA1127",
+      "depart_time": "2017-05-01T06:44:00"
+    },
+    {
+      "agony": 2.1165152324959915,
+      "price": 1871,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T09:50:00",
+      "flight_num": "UA1129",
+      "depart_time": "2017-05-01T08:44:00"
+    },
+    {
+      "agony": 2.118780096308186,
+      "price": 1869,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T11:50:00",
+      "flight_num": "UA1131",
+      "depart_time": "2017-05-01T10:44:00"
+    },
+    {
+      "agony": 2.1210498125334762,
+      "price": 1867,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T13:50:00",
+      "flight_num": "UA1133",
+      "depart_time": "2017-05-01T12:44:00"
+    },
+    {
+      "agony": 2.123324396782842,
+      "price": 1865,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T15:50:00",
+      "flight_num": "UA1135",
+      "depart_time": "2017-05-01T14:44:00"
+    },
+    {
+      "agony": 2.1256038647342996,
+      "price": 1863,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T17:50:00",
+      "flight_num": "UA1137",
+      "depart_time": "2017-05-01T16:44:00"
+    },
+    {
+      "agony": 2.1278882321332615,
+      "price": 1861,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T19:50:00",
+      "flight_num": "UA1139",
+      "depart_time": "2017-05-01T18:44:00"
+    },
+    {
+      "agony": 2.162452931683701,
+      "price": 1859,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T21:51:00",
+      "flight_num": "UA1141",
+      "depart_time": "2017-05-01T20:44:00"
+    },
+    {
+      "agony": 2.1647819063004845,
+      "price": 1857,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-01T23:51:00",
+      "flight_num": "UA1143",
+      "depart_time": "2017-05-01T22:44:00"
+    },
+    {
+      "agony": 2.1671159029649596,
+      "price": 1855,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T01:51:00",
+      "flight_num": "UA1145",
+      "depart_time": "2017-05-02T00:44:00"
+    },
+    {
+      "agony": 2.169454937938478,
+      "price": 1853,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T03:51:00",
+      "flight_num": "UA1147",
+      "depart_time": "2017-05-02T02:44:00"
+    },
+    {
+      "agony": 2.1717990275526744,
+      "price": 1851,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T05:51:00",
+      "flight_num": "UA1149",
+      "depart_time": "2017-05-02T04:44:00"
+    },
+    {
+      "agony": 2.174148188209843,
+      "price": 1849,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T07:51:00",
+      "flight_num": "UA1151",
+      "depart_time": "2017-05-02T06:44:00"
+    },
+    {
+      "agony": 2.1765024363833243,
+      "price": 1847,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T09:51:00",
+      "flight_num": "UA1153",
+      "depart_time": "2017-05-02T08:44:00"
+    },
+    {
+      "agony": 2.178861788617886,
+      "price": 1845,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T11:51:00",
+      "flight_num": "UA1155",
+      "depart_time": "2017-05-02T10:44:00"
+    },
+    {
+      "agony": 2.181226261530114,
+      "price": 1843,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T13:51:00",
+      "flight_num": "UA1157",
+      "depart_time": "2017-05-02T12:44:00"
+    },
+    {
+      "agony": 2.1835958718087998,
+      "price": 1841,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T15:51:00",
+      "flight_num": "UA1159",
+      "depart_time": "2017-05-02T14:44:00"
+    },
+    {
+      "agony": 2.2185970636215333,
+      "price": 1839,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T17:52:00",
+      "flight_num": "UA1161",
+      "depart_time": "2017-05-02T16:44:00"
+    },
+    {
+      "agony": 2.221012520413718,
+      "price": 1837,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T19:52:00",
+      "flight_num": "UA1163",
+      "depart_time": "2017-05-02T18:44:00"
+    },
+    {
+      "agony": 2.223433242506812,
+      "price": 1835,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T21:52:00",
+      "flight_num": "UA1165",
+      "depart_time": "2017-05-02T20:44:00"
+    },
+    {
+      "agony": 2.2258592471358427,
+      "price": 1833,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-02T23:52:00",
+      "flight_num": "UA1167",
+      "depart_time": "2017-05-02T22:44:00"
+    },
+    {
+      "agony": 2.2282905516111415,
+      "price": 1831,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T01:52:00",
+      "flight_num": "UA1169",
+      "depart_time": "2017-05-03T00:44:00"
+    },
+    {
+      "agony": 2.2307271733187535,
+      "price": 1829,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T03:52:00",
+      "flight_num": "UA1171",
+      "depart_time": "2017-05-03T02:44:00"
+    },
+    {
+      "agony": 2.233169129720854,
+      "price": 1827,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T05:52:00",
+      "flight_num": "UA1173",
+      "depart_time": "2017-05-03T04:44:00"
+    },
+    {
+      "agony": 2.2356164383561645,
+      "price": 1825,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T07:52:00",
+      "flight_num": "UA1175",
+      "depart_time": "2017-05-03T06:44:00"
+    },
+    {
+      "agony": 2.238069116840373,
+      "price": 1823,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T09:52:00",
+      "flight_num": "UA1177",
+      "depart_time": "2017-05-03T08:44:00"
+    },
+    {
+      "agony": 2.2405271828665567,
+      "price": 1821,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T11:52:00",
+      "flight_num": "UA1179",
+      "depart_time": "2017-05-03T10:44:00"
+    },
+    {
+      "agony": 2.2759758108851016,
+      "price": 1819,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T13:53:00",
+      "flight_num": "UA1181",
+      "depart_time": "2017-05-03T12:44:00"
+    },
+    {
+      "agony": 2.278481012658228,
+      "price": 1817,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T15:53:00",
+      "flight_num": "UA1183",
+      "depart_time": "2017-05-03T14:44:00"
+    },
+    {
+      "agony": 2.28099173553719,
+      "price": 1815,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T17:53:00",
+      "flight_num": "UA1185",
+      "depart_time": "2017-05-03T16:44:00"
+    },
+    {
+      "agony": 2.2835079977937123,
+      "price": 1813,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T19:53:00",
+      "flight_num": "UA1187",
+      "depart_time": "2017-05-03T18:44:00"
+    },
+    {
+      "agony": 2.286029817780232,
+      "price": 1811,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T21:53:00",
+      "flight_num": "UA1189",
+      "depart_time": "2017-05-03T20:44:00"
+    },
+    {
+      "agony": 2.288557213930348,
+      "price": 1809,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-03T23:53:00",
+      "flight_num": "UA1191",
+      "depart_time": "2017-05-03T22:44:00"
+    },
+    {
+      "agony": 2.2910902047592696,
+      "price": 1807,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T01:53:00",
+      "flight_num": "UA1193",
+      "depart_time": "2017-05-04T00:44:00"
+    },
+    {
+      "agony": 2.293628808864266,
+      "price": 1805,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T03:53:00",
+      "flight_num": "UA1195",
+      "depart_time": "2017-05-04T02:44:00"
+    },
+    {
+      "agony": 2.296173044925125,
+      "price": 1803,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T05:53:00",
+      "flight_num": "UA1197",
+      "depart_time": "2017-05-04T04:44:00"
+    },
+    {
+      "agony": 2.2987229317046087,
+      "price": 1801,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T07:53:00",
+      "flight_num": "UA1199",
+      "depart_time": "2017-05-04T06:44:00"
+    },
+    {
+      "agony": 2.3346303501945527,
+      "price": 1799,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T09:54:00",
+      "flight_num": "UA1201",
+      "depart_time": "2017-05-04T08:44:00"
+    },
+    {
+      "agony": 2.337228714524207,
+      "price": 1797,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T11:54:00",
+      "flight_num": "UA1203",
+      "depart_time": "2017-05-04T10:44:00"
+    },
+    {
+      "agony": 2.33983286908078,
+      "price": 1795,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T13:54:00",
+      "flight_num": "UA1205",
+      "depart_time": "2017-05-04T12:44:00"
+    },
+    {
+      "agony": 2.342442833240379,
+      "price": 1793,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T15:54:00",
+      "flight_num": "UA1207",
+      "depart_time": "2017-05-04T14:44:00"
+    },
+    {
+      "agony": 2.3450586264656614,
+      "price": 1791,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T17:54:00",
+      "flight_num": "UA1209",
+      "depart_time": "2017-05-04T16:44:00"
+    },
+    {
+      "agony": 2.3476802683063163,
+      "price": 1789,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T19:54:00",
+      "flight_num": "UA1211",
+      "depart_time": "2017-05-04T18:44:00"
+    },
+    {
+      "agony": 2.3503077783995523,
+      "price": 1787,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T21:54:00",
+      "flight_num": "UA1213",
+      "depart_time": "2017-05-04T20:44:00"
+    },
+    {
+      "agony": 2.3529411764705883,
+      "price": 1785,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-04T23:54:00",
+      "flight_num": "UA1215",
+      "depart_time": "2017-05-04T22:44:00"
+    },
+    {
+      "agony": 2.3555804823331465,
+      "price": 1783,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T01:54:00",
+      "flight_num": "UA1217",
+      "depart_time": "2017-05-05T00:44:00"
+    },
+    {
+      "agony": 2.3582257158899496,
+      "price": 1781,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T03:54:00",
+      "flight_num": "UA1219",
+      "depart_time": "2017-05-05T02:44:00"
+    },
+    {
+      "agony": 2.39460370994941,
+      "price": 1779,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T05:55:00",
+      "flight_num": "UA1221",
+      "depart_time": "2017-05-05T04:44:00"
+    },
+    {
+      "agony": 2.397298818232977,
+      "price": 1777,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T07:55:00",
+      "flight_num": "UA1223",
+      "depart_time": "2017-05-05T06:44:00"
+    },
+    {
+      "agony": 2.4,
+      "price": 1775,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T09:55:00",
+      "flight_num": "UA1225",
+      "depart_time": "2017-05-05T08:44:00"
+    },
+    {
+      "agony": 2.4027072758037225,
+      "price": 1773,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T11:55:00",
+      "flight_num": "UA1227",
+      "depart_time": "2017-05-05T10:44:00"
+    },
+    {
+      "agony": 2.4054206662902313,
+      "price": 1771,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T13:55:00",
+      "flight_num": "UA1229",
+      "depart_time": "2017-05-05T12:44:00"
+    },
+    {
+      "agony": 2.4081401921989825,
+      "price": 1769,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T15:55:00",
+      "flight_num": "UA1231",
+      "depart_time": "2017-05-05T14:44:00"
+    },
+    {
+      "agony": 2.4108658743633278,
+      "price": 1767,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T17:55:00",
+      "flight_num": "UA1233",
+      "depart_time": "2017-05-05T16:44:00"
+    },
+    {
+      "agony": 2.413597733711048,
+      "price": 1765,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T19:55:00",
+      "flight_num": "UA1235",
+      "depart_time": "2017-05-05T18:44:00"
+    },
+    {
+      "agony": 2.4163357912648893,
+      "price": 1763,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T21:55:00",
+      "flight_num": "UA1237",
+      "depart_time": "2017-05-05T20:44:00"
+    },
+    {
+      "agony": 2.4190800681431006,
+      "price": 1761,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-05T23:55:00",
+      "flight_num": "UA1239",
+      "depart_time": "2017-05-05T22:44:00"
+    },
+    {
+      "agony": 2.4559408754974417,
+      "price": 1759,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T01:56:00",
+      "flight_num": "UA1241",
+      "depart_time": "2017-05-06T00:44:00"
+    },
+    {
+      "agony": 2.458736482640865,
+      "price": 1757,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T03:56:00",
+      "flight_num": "UA1243",
+      "depart_time": "2017-05-06T02:44:00"
+    },
+    {
+      "agony": 2.4615384615384617,
+      "price": 1755,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T05:56:00",
+      "flight_num": "UA1245",
+      "depart_time": "2017-05-06T04:44:00"
+    },
+    {
+      "agony": 2.4643468339988592,
+      "price": 1753,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T07:56:00",
+      "flight_num": "UA1247",
+      "depart_time": "2017-05-06T06:44:00"
+    },
+    {
+      "agony": 2.4671616219303254,
+      "price": 1751,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T09:56:00",
+      "flight_num": "UA1249",
+      "depart_time": "2017-05-06T08:44:00"
+    },
+    {
+      "agony": 2.469982847341338,
+      "price": 1749,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T11:56:00",
+      "flight_num": "UA1251",
+      "depart_time": "2017-05-06T10:44:00"
+    },
+    {
+      "agony": 2.4728105323411564,
+      "price": 1747,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T13:56:00",
+      "flight_num": "UA1253",
+      "depart_time": "2017-05-06T12:44:00"
+    },
+    {
+      "agony": 2.475644699140401,
+      "price": 1745,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T15:56:00",
+      "flight_num": "UA1255",
+      "depart_time": "2017-05-06T14:44:00"
+    },
+    {
+      "agony": 2.478485370051635,
+      "price": 1743,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T17:56:00",
+      "flight_num": "UA1257",
+      "depart_time": "2017-05-06T16:44:00"
+    },
+    {
+      "agony": 2.4813325674899485,
+      "price": 1741,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T19:56:00",
+      "flight_num": "UA1259",
+      "depart_time": "2017-05-06T18:44:00"
+    },
+    {
+      "agony": 2.518688901667625,
+      "price": 1739,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T21:57:00",
+      "flight_num": "UA1261",
+      "depart_time": "2017-05-06T20:44:00"
+    },
+    {
+      "agony": 2.5215889464594126,
+      "price": 1737,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-06T23:57:00",
+      "flight_num": "UA1263",
+      "depart_time": "2017-05-06T22:44:00"
+    },
+    {
+      "agony": 2.5244956772334293,
+      "price": 1735,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T01:57:00",
+      "flight_num": "UA1265",
+      "depart_time": "2017-05-07T00:44:00"
+    },
+    {
+      "agony": 2.527409117137911,
+      "price": 1733,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T03:57:00",
+      "flight_num": "UA1267",
+      "depart_time": "2017-05-07T02:44:00"
+    },
+    {
+      "agony": 2.5303292894280762,
+      "price": 1731,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T05:57:00",
+      "flight_num": "UA1269",
+      "depart_time": "2017-05-07T04:44:00"
+    },
+    {
+      "agony": 2.533256217466744,
+      "price": 1729,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T07:57:00",
+      "flight_num": "UA1271",
+      "depart_time": "2017-05-07T06:44:00"
+    },
+    {
+      "agony": 2.5361899247249564,
+      "price": 1727,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T09:57:00",
+      "flight_num": "UA1273",
+      "depart_time": "2017-05-07T08:44:00"
+    },
+    {
+      "agony": 2.5391304347826087,
+      "price": 1725,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T11:57:00",
+      "flight_num": "UA1275",
+      "depart_time": "2017-05-07T10:44:00"
+    },
+    {
+      "agony": 2.542077771329077,
+      "price": 1723,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T13:57:00",
+      "flight_num": "UA1277",
+      "depart_time": "2017-05-07T12:44:00"
+    },
+    {
+      "agony": 2.5450319581638583,
+      "price": 1721,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T15:57:00",
+      "flight_num": "UA1279",
+      "depart_time": "2017-05-07T14:44:00"
+    },
+    {
+      "agony": 2.5828970331588135,
+      "price": 1719,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T17:58:00",
+      "flight_num": "UA1281",
+      "depart_time": "2017-05-07T16:44:00"
+    },
+    {
+      "agony": 2.5859056493884682,
+      "price": 1717,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T19:58:00",
+      "flight_num": "UA1283",
+      "depart_time": "2017-05-07T18:44:00"
+    },
+    {
+      "agony": 2.5889212827988337,
+      "price": 1715,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T21:58:00",
+      "flight_num": "UA1285",
+      "depart_time": "2017-05-07T20:44:00"
+    },
+    {
+      "agony": 2.591943957968476,
+      "price": 1713,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-07T23:58:00",
+      "flight_num": "UA1287",
+      "depart_time": "2017-05-07T22:44:00"
+    },
+    {
+      "agony": 2.5949736995908825,
+      "price": 1711,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T01:58:00",
+      "flight_num": "UA1289",
+      "depart_time": "2017-05-08T00:44:00"
+    },
+    {
+      "agony": 2.5980105324751315,
+      "price": 1709,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T03:58:00",
+      "flight_num": "UA1291",
+      "depart_time": "2017-05-08T02:44:00"
+    },
+    {
+      "agony": 2.601054481546573,
+      "price": 1707,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T05:58:00",
+      "flight_num": "UA1293",
+      "depart_time": "2017-05-08T04:44:00"
+    },
+    {
+      "agony": 2.6041055718475072,
+      "price": 1705,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T07:58:00",
+      "flight_num": "UA1295",
+      "depart_time": "2017-05-08T06:44:00"
+    },
+    {
+      "agony": 2.607163828537874,
+      "price": 1703,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T09:58:00",
+      "flight_num": "UA1297",
+      "depart_time": "2017-05-08T08:44:00"
+    },
+    {
+      "agony": 2.6102292768959434,
+      "price": 1701,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T11:58:00",
+      "flight_num": "UA1299",
+      "depart_time": "2017-05-08T10:44:00"
+    },
+    {
+      "agony": 2.64861683343143,
+      "price": 1699,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T13:59:00",
+      "flight_num": "UA1301",
+      "depart_time": "2017-05-08T12:44:00"
+    },
+    {
+      "agony": 2.6517383618149677,
+      "price": 1697,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T15:59:00",
+      "flight_num": "UA1303",
+      "depart_time": "2017-05-08T14:44:00"
+    },
+    {
+      "agony": 2.6548672566371683,
+      "price": 1695,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T17:59:00",
+      "flight_num": "UA1305",
+      "depart_time": "2017-05-08T16:44:00"
+    },
+    {
+      "agony": 2.658003544004725,
+      "price": 1693,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T19:59:00",
+      "flight_num": "UA1307",
+      "depart_time": "2017-05-08T18:44:00"
+    },
+    {
+      "agony": 2.6611472501478417,
+      "price": 1691,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T21:59:00",
+      "flight_num": "UA1309",
+      "depart_time": "2017-05-08T20:44:00"
+    },
+    {
+      "agony": 2.664298401420959,
+      "price": 1689,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-08T23:59:00",
+      "flight_num": "UA1311",
+      "depart_time": "2017-05-08T22:44:00"
+    },
+    {
+      "agony": 2.667457024303497,
+      "price": 1687,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T01:59:00",
+      "flight_num": "UA1313",
+      "depart_time": "2017-05-09T00:44:00"
+    },
+    {
+      "agony": 2.6706231454005933,
+      "price": 1685,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T03:59:00",
+      "flight_num": "UA1315",
+      "depart_time": "2017-05-09T02:44:00"
+    },
+    {
+      "agony": 2.6737967914438503,
+      "price": 1683,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T05:59:00",
+      "flight_num": "UA1317",
+      "depart_time": "2017-05-09T04:44:00"
+    },
+    {
+      "agony": 2.676977989292088,
+      "price": 1681,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T07:59:00",
+      "flight_num": "UA1319",
+      "depart_time": "2017-05-09T06:44:00"
+    },
+    {
+      "agony": 2.715902322811197,
+      "price": 1679,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T10:00:00",
+      "flight_num": "UA1321",
+      "depart_time": "2017-05-09T08:44:00"
+    },
+    {
+      "agony": 2.7191413237924866,
+      "price": 1677,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T12:00:00",
+      "flight_num": "UA1323",
+      "depart_time": "2017-05-09T10:44:00"
+    },
+    {
+      "agony": 2.7223880597014927,
+      "price": 1675,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T14:00:00",
+      "flight_num": "UA1325",
+      "depart_time": "2017-05-09T12:44:00"
+    },
+    {
+      "agony": 2.7256425582785417,
+      "price": 1673,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T16:00:00",
+      "flight_num": "UA1327",
+      "depart_time": "2017-05-09T14:44:00"
+    },
+    {
+      "agony": 2.7289048473967683,
+      "price": 1671,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T18:00:00",
+      "flight_num": "UA1329",
+      "depart_time": "2017-05-09T16:44:00"
+    },
+    {
+      "agony": 2.732174955062912,
+      "price": 1669,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T20:00:00",
+      "flight_num": "UA1331",
+      "depart_time": "2017-05-09T18:44:00"
+    },
+    {
+      "agony": 2.7354529094181164,
+      "price": 1667,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-09T22:00:00",
+      "flight_num": "UA1333",
+      "depart_time": "2017-05-09T20:44:00"
+    },
+    {
+      "agony": 2.7387387387387387,
+      "price": 1665,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T00:00:00",
+      "flight_num": "UA1335",
+      "depart_time": "2017-05-09T22:44:00"
+    },
+    {
+      "agony": 2.742032471437162,
+      "price": 1663,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T02:00:00",
+      "flight_num": "UA1337",
+      "depart_time": "2017-05-10T00:44:00"
+    },
+    {
+      "agony": 2.745334136062613,
+      "price": 1661,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T04:00:00",
+      "flight_num": "UA1339",
+      "depart_time": "2017-05-10T02:44:00"
+    },
+    {
+      "agony": 2.7848101265822787,
+      "price": 1659,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T06:01:00",
+      "flight_num": "UA1341",
+      "depart_time": "2017-05-10T04:44:00"
+    },
+    {
+      "agony": 2.788171394085697,
+      "price": 1657,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T08:01:00",
+      "flight_num": "UA1343",
+      "depart_time": "2017-05-10T06:44:00"
+    },
+    {
+      "agony": 2.7915407854984893,
+      "price": 1655,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T10:01:00",
+      "flight_num": "UA1345",
+      "depart_time": "2017-05-10T08:44:00"
+    },
+    {
+      "agony": 2.79491833030853,
+      "price": 1653,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T12:01:00",
+      "flight_num": "UA1347",
+      "depart_time": "2017-05-10T10:44:00"
+    },
+    {
+      "agony": 2.7983040581465777,
+      "price": 1651,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T14:01:00",
+      "flight_num": "UA1349",
+      "depart_time": "2017-05-10T12:44:00"
+    },
+    {
+      "agony": 2.8016979987871435,
+      "price": 1649,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T16:01:00",
+      "flight_num": "UA1351",
+      "depart_time": "2017-05-10T14:44:00"
+    },
+    {
+      "agony": 2.8051001821493626,
+      "price": 1647,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T18:01:00",
+      "flight_num": "UA1353",
+      "depart_time": "2017-05-10T16:44:00"
+    },
+    {
+      "agony": 2.8085106382978724,
+      "price": 1645,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T20:01:00",
+      "flight_num": "UA1355",
+      "depart_time": "2017-05-10T18:44:00"
+    },
+    {
+      "agony": 2.8119293974437007,
+      "price": 1643,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-10T22:01:00",
+      "flight_num": "UA1357",
+      "depart_time": "2017-05-10T20:44:00"
+    },
+    {
+      "agony": 2.8153564899451555,
+      "price": 1641,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T00:01:00",
+      "flight_num": "UA1359",
+      "depart_time": "2017-05-10T22:44:00"
+    },
+    {
+      "agony": 2.855399633923124,
+      "price": 1639,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T02:02:00",
+      "flight_num": "UA1361",
+      "depart_time": "2017-05-11T00:44:00"
+    },
+    {
+      "agony": 2.858888210140501,
+      "price": 1637,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T04:02:00",
+      "flight_num": "UA1363",
+      "depart_time": "2017-05-11T02:44:00"
+    },
+    {
+      "agony": 2.8623853211009176,
+      "price": 1635,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T06:02:00",
+      "flight_num": "UA1365",
+      "depart_time": "2017-05-11T04:44:00"
+    },
+    {
+      "agony": 2.8658909981628904,
+      "price": 1633,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T08:02:00",
+      "flight_num": "UA1367",
+      "depart_time": "2017-05-11T06:44:00"
+    },
+    {
+      "agony": 2.8694052728387494,
+      "price": 1631,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T10:02:00",
+      "flight_num": "UA1369",
+      "depart_time": "2017-05-11T08:44:00"
+    },
+    {
+      "agony": 2.8729281767955803,
+      "price": 1629,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T12:02:00",
+      "flight_num": "UA1371",
+      "depart_time": "2017-05-11T10:44:00"
+    },
+    {
+      "agony": 2.876459741856177,
+      "price": 1627,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T14:02:00",
+      "flight_num": "UA1373",
+      "depart_time": "2017-05-11T12:44:00"
+    },
+    {
+      "agony": 2.88,
+      "price": 1625,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T16:02:00",
+      "flight_num": "UA1375",
+      "depart_time": "2017-05-11T14:44:00"
+    },
+    {
+      "agony": 2.8835489833641406,
+      "price": 1623,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T18:02:00",
+      "flight_num": "UA1377",
+      "depart_time": "2017-05-11T16:44:00"
+    },
+    {
+      "agony": 2.8871067242442936,
+      "price": 1621,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T20:02:00",
+      "flight_num": "UA1379",
+      "depart_time": "2017-05-11T18:44:00"
+    },
+    {
+      "agony": 2.9277331686226065,
+      "price": 1619,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-11T22:03:00",
+      "flight_num": "UA1381",
+      "depart_time": "2017-05-11T20:44:00"
+    },
+    {
+      "agony": 2.9313543599257885,
+      "price": 1617,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T00:03:00",
+      "flight_num": "UA1383",
+      "depart_time": "2017-05-11T22:44:00"
+    },
+    {
+      "agony": 2.934984520123839,
+      "price": 1615,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T02:03:00",
+      "flight_num": "UA1385",
+      "depart_time": "2017-05-12T00:44:00"
+    },
+    {
+      "agony": 2.938623682579045,
+      "price": 1613,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T04:03:00",
+      "flight_num": "UA1387",
+      "depart_time": "2017-05-12T02:44:00"
+    },
+    {
+      "agony": 2.9422718808193666,
+      "price": 1611,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T06:03:00",
+      "flight_num": "UA1389",
+      "depart_time": "2017-05-12T04:44:00"
+    },
+    {
+      "agony": 2.9459291485394656,
+      "price": 1609,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T08:03:00",
+      "flight_num": "UA1391",
+      "depart_time": "2017-05-12T06:44:00"
+    },
+    {
+      "agony": 2.9495955196017425,
+      "price": 1607,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T10:03:00",
+      "flight_num": "UA1393",
+      "depart_time": "2017-05-12T08:44:00"
+    },
+    {
+      "agony": 2.953271028037383,
+      "price": 1605,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T12:03:00",
+      "flight_num": "UA1395",
+      "depart_time": "2017-05-12T10:44:00"
+    },
+    {
+      "agony": 2.956955708047411,
+      "price": 1603,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T14:03:00",
+      "flight_num": "UA1397",
+      "depart_time": "2017-05-12T12:44:00"
+    },
+    {
+      "agony": 2.9606495940037476,
+      "price": 1601,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T16:03:00",
+      "flight_num": "UA1399",
+      "depart_time": "2017-05-12T14:44:00"
+    },
+    {
+      "agony": 3.0018761726078798,
+      "price": 1599,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T18:04:00",
+      "flight_num": "UA1401",
+      "depart_time": "2017-05-12T16:44:00"
+    },
+    {
+      "agony": 3.005635566687539,
+      "price": 1597,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T20:04:00",
+      "flight_num": "UA1403",
+      "depart_time": "2017-05-12T18:44:00"
+    },
+    {
+      "agony": 3.0094043887147337,
+      "price": 1595,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-12T22:04:00",
+      "flight_num": "UA1405",
+      "depart_time": "2017-05-12T20:44:00"
+    },
+    {
+      "agony": 3.0131826741996233,
+      "price": 1593,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T00:04:00",
+      "flight_num": "UA1407",
+      "depart_time": "2017-05-12T22:44:00"
+    },
+    {
+      "agony": 3.016970458830924,
+      "price": 1591,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T02:04:00",
+      "flight_num": "UA1409",
+      "depart_time": "2017-05-13T00:44:00"
+    },
+    {
+      "agony": 3.0207677784770297,
+      "price": 1589,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T04:04:00",
+      "flight_num": "UA1411",
+      "depart_time": "2017-05-13T02:44:00"
+    },
+    {
+      "agony": 3.0245746691871456,
+      "price": 1587,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T06:04:00",
+      "flight_num": "UA1413",
+      "depart_time": "2017-05-13T04:44:00"
+    },
+    {
+      "agony": 3.028391167192429,
+      "price": 1585,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T08:04:00",
+      "flight_num": "UA1415",
+      "depart_time": "2017-05-13T06:44:00"
+    },
+    {
+      "agony": 3.0322173089071383,
+      "price": 1583,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T10:04:00",
+      "flight_num": "UA1417",
+      "depart_time": "2017-05-13T08:44:00"
+    },
+    {
+      "agony": 3.0360531309297913,
+      "price": 1581,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T12:04:00",
+      "flight_num": "UA1419",
+      "depart_time": "2017-05-13T10:44:00"
+    },
+    {
+      "agony": 3.077897403419886,
+      "price": 1579,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T14:05:00",
+      "flight_num": "UA1421",
+      "depart_time": "2017-05-13T12:44:00"
+    },
+    {
+      "agony": 3.0818008877615726,
+      "price": 1577,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T16:05:00",
+      "flight_num": "UA1423",
+      "depart_time": "2017-05-13T14:44:00"
+    },
+    {
+      "agony": 3.085714285714286,
+      "price": 1575,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T18:05:00",
+      "flight_num": "UA1425",
+      "depart_time": "2017-05-13T16:44:00"
+    },
+    {
+      "agony": 3.0896376350921804,
+      "price": 1573,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T20:05:00",
+      "flight_num": "UA1427",
+      "depart_time": "2017-05-13T18:44:00"
+    },
+    {
+      "agony": 3.0935709739019734,
+      "price": 1571,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-13T22:05:00",
+      "flight_num": "UA1429",
+      "depart_time": "2017-05-13T20:44:00"
+    },
+    {
+      "agony": 3.0975143403441683,
+      "price": 1569,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T00:05:00",
+      "flight_num": "UA1431",
+      "depart_time": "2017-05-13T22:44:00"
+    },
+    {
+      "agony": 3.1014677728142948,
+      "price": 1567,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T02:05:00",
+      "flight_num": "UA1433",
+      "depart_time": "2017-05-14T00:44:00"
+    },
+    {
+      "agony": 3.1054313099041533,
+      "price": 1565,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T04:05:00",
+      "flight_num": "UA1435",
+      "depart_time": "2017-05-14T02:44:00"
+    },
+    {
+      "agony": 3.109404990403071,
+      "price": 1563,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T06:05:00",
+      "flight_num": "UA1437",
+      "depart_time": "2017-05-14T04:44:00"
+    },
+    {
+      "agony": 3.1133888532991674,
+      "price": 1561,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T08:05:00",
+      "flight_num": "UA1439",
+      "depart_time": "2017-05-14T06:44:00"
+    },
+    {
+      "agony": 3.1558691468890316,
+      "price": 1559,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T10:06:00",
+      "flight_num": "UA1441",
+      "depart_time": "2017-05-14T08:44:00"
+    },
+    {
+      "agony": 3.159922928709056,
+      "price": 1557,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T12:06:00",
+      "flight_num": "UA1443",
+      "depart_time": "2017-05-14T10:44:00"
+    },
+    {
+      "agony": 3.1639871382636655,
+      "price": 1555,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T14:06:00",
+      "flight_num": "UA1445",
+      "depart_time": "2017-05-14T12:44:00"
+    },
+    {
+      "agony": 3.168061815840309,
+      "price": 1553,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T16:06:00",
+      "flight_num": "UA1447",
+      "depart_time": "2017-05-14T14:44:00"
+    },
+    {
+      "agony": 3.172147001934236,
+      "price": 1551,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T18:06:00",
+      "flight_num": "UA1449",
+      "depart_time": "2017-05-14T16:44:00"
+    },
+    {
+      "agony": 3.1762427372498387,
+      "price": 1549,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T20:06:00",
+      "flight_num": "UA1451",
+      "depart_time": "2017-05-14T18:44:00"
+    },
+    {
+      "agony": 3.1803490627020037,
+      "price": 1547,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-14T22:06:00",
+      "flight_num": "UA1453",
+      "depart_time": "2017-05-14T20:44:00"
+    },
+    {
+      "agony": 3.1844660194174756,
+      "price": 1545,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T00:06:00",
+      "flight_num": "UA1455",
+      "depart_time": "2017-05-14T22:44:00"
+    },
+    {
+      "agony": 3.1885936487362283,
+      "price": 1543,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T02:06:00",
+      "flight_num": "UA1457",
+      "depart_time": "2017-05-15T00:44:00"
+    },
+    {
+      "agony": 3.192731992212849,
+      "price": 1541,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T04:06:00",
+      "flight_num": "UA1459",
+      "depart_time": "2017-05-15T02:44:00"
+    },
+    {
+      "agony": 3.2358674463937622,
+      "price": 1539,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T06:07:00",
+      "flight_num": "UA1461",
+      "depart_time": "2017-05-15T04:44:00"
+    },
+    {
+      "agony": 3.240078074170462,
+      "price": 1537,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T08:07:00",
+      "flight_num": "UA1463",
+      "depart_time": "2017-05-15T06:44:00"
+    },
+    {
+      "agony": 3.244299674267101,
+      "price": 1535,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T10:07:00",
+      "flight_num": "UA1465",
+      "depart_time": "2017-05-15T08:44:00"
+    },
+    {
+      "agony": 3.24853228962818,
+      "price": 1533,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T12:07:00",
+      "flight_num": "UA1467",
+      "depart_time": "2017-05-15T10:44:00"
+    },
+    {
+      "agony": 3.2527759634225997,
+      "price": 1531,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T14:07:00",
+      "flight_num": "UA1469",
+      "depart_time": "2017-05-15T12:44:00"
+    },
+    {
+      "agony": 3.2570307390451276,
+      "price": 1529,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T16:07:00",
+      "flight_num": "UA1471",
+      "depart_time": "2017-05-15T14:44:00"
+    },
+    {
+      "agony": 3.2612966601178783,
+      "price": 1527,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T18:07:00",
+      "flight_num": "UA1473",
+      "depart_time": "2017-05-15T16:44:00"
+    },
+    {
+      "agony": 3.265573770491803,
+      "price": 1525,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T20:07:00",
+      "flight_num": "UA1475",
+      "depart_time": "2017-05-15T18:44:00"
+    },
+    {
+      "agony": 3.2698621142481943,
+      "price": 1523,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-15T22:07:00",
+      "flight_num": "UA1477",
+      "depart_time": "2017-05-15T20:44:00"
+    },
+    {
+      "agony": 3.274161735700197,
+      "price": 1521,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T00:07:00",
+      "flight_num": "UA1479",
+      "depart_time": "2017-05-15T22:44:00"
+    },
+    {
+      "agony": 3.3179723502304146,
+      "price": 1519,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T02:08:00",
+      "flight_num": "UA1481",
+      "depart_time": "2017-05-16T00:44:00"
+    },
+    {
+      "agony": 3.3223467369808835,
+      "price": 1517,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T04:08:00",
+      "flight_num": "UA1483",
+      "depart_time": "2017-05-16T02:44:00"
+    },
+    {
+      "agony": 3.3267326732673266,
+      "price": 1515,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T06:08:00",
+      "flight_num": "UA1485",
+      "depart_time": "2017-05-16T04:44:00"
+    },
+    {
+      "agony": 3.331130204890945,
+      "price": 1513,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T08:08:00",
+      "flight_num": "UA1487",
+      "depart_time": "2017-05-16T06:44:00"
+    },
+    {
+      "agony": 3.3355393778954334,
+      "price": 1511,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T10:08:00",
+      "flight_num": "UA1489",
+      "depart_time": "2017-05-16T08:44:00"
+    },
+    {
+      "agony": 3.3399602385685885,
+      "price": 1509,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T12:08:00",
+      "flight_num": "UA1491",
+      "depart_time": "2017-05-16T10:44:00"
+    },
+    {
+      "agony": 3.344392833443928,
+      "price": 1507,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T14:08:00",
+      "flight_num": "UA1493",
+      "depart_time": "2017-05-16T12:44:00"
+    },
+    {
+      "agony": 3.3488372093023258,
+      "price": 1505,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T16:08:00",
+      "flight_num": "UA1495",
+      "depart_time": "2017-05-16T14:44:00"
+    },
+    {
+      "agony": 3.3532934131736525,
+      "price": 1503,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T18:08:00",
+      "flight_num": "UA1497",
+      "depart_time": "2017-05-16T16:44:00"
+    },
+    {
+      "agony": 3.357761492338441,
+      "price": 1501,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T20:08:00",
+      "flight_num": "UA1499",
+      "depart_time": "2017-05-16T18:44:00"
+    },
+    {
+      "agony": 3.402268178785857,
+      "price": 1499,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-16T22:09:00",
+      "flight_num": "UA1501",
+      "depart_time": "2017-05-16T20:44:00"
+    },
+    {
+      "agony": 3.406813627254509,
+      "price": 1497,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T00:09:00",
+      "flight_num": "UA1503",
+      "depart_time": "2017-05-16T22:44:00"
+    },
+    {
+      "agony": 3.411371237458194,
+      "price": 1495,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T02:09:00",
+      "flight_num": "UA1505",
+      "depart_time": "2017-05-17T00:44:00"
+    },
+    {
+      "agony": 3.415941058271936,
+      "price": 1493,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T04:09:00",
+      "flight_num": "UA1507",
+      "depart_time": "2017-05-17T02:44:00"
+    },
+    {
+      "agony": 3.420523138832998,
+      "price": 1491,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T06:09:00",
+      "flight_num": "UA1509",
+      "depart_time": "2017-05-17T04:44:00"
+    },
+    {
+      "agony": 3.4251175285426463,
+      "price": 1489,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T08:09:00",
+      "flight_num": "UA1511",
+      "depart_time": "2017-05-17T06:44:00"
+    },
+    {
+      "agony": 3.429724277067922,
+      "price": 1487,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T10:09:00",
+      "flight_num": "UA1513",
+      "depart_time": "2017-05-17T08:44:00"
+    },
+    {
+      "agony": 3.4343434343434343,
+      "price": 1485,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T12:09:00",
+      "flight_num": "UA1515",
+      "depart_time": "2017-05-17T10:44:00"
+    },
+    {
+      "agony": 3.4389750505731627,
+      "price": 1483,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T14:09:00",
+      "flight_num": "UA1517",
+      "depart_time": "2017-05-17T12:44:00"
+    },
+    {
+      "agony": 3.4436191762322754,
+      "price": 1481,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T16:09:00",
+      "flight_num": "UA1519",
+      "depart_time": "2017-05-17T14:44:00"
+    },
+    {
+      "agony": 3.4888438133874238,
+      "price": 1479,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T18:10:00",
+      "flight_num": "UA1521",
+      "depart_time": "2017-05-17T16:44:00"
+    },
+    {
+      "agony": 3.4935680433310763,
+      "price": 1477,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T20:10:00",
+      "flight_num": "UA1523",
+      "depart_time": "2017-05-17T18:44:00"
+    },
+    {
+      "agony": 3.4983050847457626,
+      "price": 1475,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-17T22:10:00",
+      "flight_num": "UA1525",
+      "depart_time": "2017-05-17T20:44:00"
+    },
+    {
+      "agony": 3.5030549898167007,
+      "price": 1473,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T00:10:00",
+      "flight_num": "UA1527",
+      "depart_time": "2017-05-17T22:44:00"
+    },
+    {
+      "agony": 3.5078178110129166,
+      "price": 1471,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T02:10:00",
+      "flight_num": "UA1529",
+      "depart_time": "2017-05-18T00:44:00"
+    },
+    {
+      "agony": 3.5125936010891765,
+      "price": 1469,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T04:10:00",
+      "flight_num": "UA1531",
+      "depart_time": "2017-05-18T02:44:00"
+    },
+    {
+      "agony": 3.5173824130879345,
+      "price": 1467,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T06:10:00",
+      "flight_num": "UA1533",
+      "depart_time": "2017-05-18T04:44:00"
+    },
+    {
+      "agony": 3.522184300341297,
+      "price": 1465,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T08:10:00",
+      "flight_num": "UA1535",
+      "depart_time": "2017-05-18T06:44:00"
+    },
+    {
+      "agony": 3.5269993164730007,
+      "price": 1463,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T10:10:00",
+      "flight_num": "UA1537",
+      "depart_time": "2017-05-18T08:44:00"
+    },
+    {
+      "agony": 3.5318275154004106,
+      "price": 1461,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T12:10:00",
+      "flight_num": "UA1539",
+      "depart_time": "2017-05-18T10:44:00"
+    },
+    {
+      "agony": 3.5777930089102123,
+      "price": 1459,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T14:11:00",
+      "flight_num": "UA1541",
+      "depart_time": "2017-05-18T12:44:00"
+    },
+    {
+      "agony": 3.582704186684969,
+      "price": 1457,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T16:11:00",
+      "flight_num": "UA1543",
+      "depart_time": "2017-05-18T14:44:00"
+    },
+    {
+      "agony": 3.5876288659793816,
+      "price": 1455,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T18:11:00",
+      "flight_num": "UA1545",
+      "depart_time": "2017-05-18T16:44:00"
+    },
+    {
+      "agony": 3.5925671025464556,
+      "price": 1453,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T20:11:00",
+      "flight_num": "UA1547",
+      "depart_time": "2017-05-18T18:44:00"
+    },
+    {
+      "agony": 3.5975189524465887,
+      "price": 1451,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-18T22:11:00",
+      "flight_num": "UA1549",
+      "depart_time": "2017-05-18T20:44:00"
+    },
+    {
+      "agony": 3.6024844720496896,
+      "price": 1449,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T00:11:00",
+      "flight_num": "UA1551",
+      "depart_time": "2017-05-18T22:44:00"
+    },
+    {
+      "agony": 3.6074637180373186,
+      "price": 1447,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T02:11:00",
+      "flight_num": "UA1553",
+      "depart_time": "2017-05-19T00:44:00"
+    },
+    {
+      "agony": 3.612456747404844,
+      "price": 1445,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T04:11:00",
+      "flight_num": "UA1555",
+      "depart_time": "2017-05-19T02:44:00"
+    },
+    {
+      "agony": 3.6174636174636174,
+      "price": 1443,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T06:11:00",
+      "flight_num": "UA1557",
+      "depart_time": "2017-05-19T04:44:00"
+    },
+    {
+      "agony": 3.6224843858431646,
+      "price": 1441,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T08:11:00",
+      "flight_num": "UA1559",
+      "depart_time": "2017-05-19T06:44:00"
+    },
+    {
+      "agony": 3.6692147324530926,
+      "price": 1439,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T10:12:00",
+      "flight_num": "UA1561",
+      "depart_time": "2017-05-19T08:44:00"
+    },
+    {
+      "agony": 3.674321503131524,
+      "price": 1437,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T12:12:00",
+      "flight_num": "UA1563",
+      "depart_time": "2017-05-19T10:44:00"
+    },
+    {
+      "agony": 3.6794425087108014,
+      "price": 1435,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T14:12:00",
+      "flight_num": "UA1565",
+      "depart_time": "2017-05-19T12:44:00"
+    },
+    {
+      "agony": 3.6845778087927425,
+      "price": 1433,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T16:12:00",
+      "flight_num": "UA1567",
+      "depart_time": "2017-05-19T14:44:00"
+    },
+    {
+      "agony": 3.689727463312369,
+      "price": 1431,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T18:12:00",
+      "flight_num": "UA1569",
+      "depart_time": "2017-05-19T16:44:00"
+    },
+    {
+      "agony": 3.694891532540238,
+      "price": 1429,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T20:12:00",
+      "flight_num": "UA1571",
+      "depart_time": "2017-05-19T18:44:00"
+    },
+    {
+      "agony": 3.7000700770847934,
+      "price": 1427,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-19T22:12:00",
+      "flight_num": "UA1573",
+      "depart_time": "2017-05-19T20:44:00"
+    },
+    {
+      "agony": 3.705263157894737,
+      "price": 1425,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T00:12:00",
+      "flight_num": "UA1575",
+      "depart_time": "2017-05-19T22:44:00"
+    },
+    {
+      "agony": 3.7104708362614196,
+      "price": 1423,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T02:12:00",
+      "flight_num": "UA1577",
+      "depart_time": "2017-05-20T00:44:00"
+    },
+    {
+      "agony": 3.715693173821253,
+      "price": 1421,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T04:12:00",
+      "flight_num": "UA1579",
+      "depart_time": "2017-05-20T02:44:00"
+    },
+    {
+      "agony": 3.763213530655391,
+      "price": 1419,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T06:13:00",
+      "flight_num": "UA1581",
+      "depart_time": "2017-05-20T04:44:00"
+    },
+    {
+      "agony": 3.7685250529287226,
+      "price": 1417,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T08:13:00",
+      "flight_num": "UA1583",
+      "depart_time": "2017-05-20T06:44:00"
+    },
+    {
+      "agony": 3.7738515901060072,
+      "price": 1415,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T10:13:00",
+      "flight_num": "UA1585",
+      "depart_time": "2017-05-20T08:44:00"
+    },
+    {
+      "agony": 3.7791932059447984,
+      "price": 1413,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T12:13:00",
+      "flight_num": "UA1587",
+      "depart_time": "2017-05-20T10:44:00"
+    },
+    {
+      "agony": 3.784549964564139,
+      "price": 1411,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T14:13:00",
+      "flight_num": "UA1589",
+      "depart_time": "2017-05-20T12:44:00"
+    },
+    {
+      "agony": 3.7899219304471257,
+      "price": 1409,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T16:13:00",
+      "flight_num": "UA1591",
+      "depart_time": "2017-05-20T14:44:00"
+    },
+    {
+      "agony": 3.795309168443497,
+      "price": 1407,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T18:13:00",
+      "flight_num": "UA1593",
+      "depart_time": "2017-05-20T16:44:00"
+    },
+    {
+      "agony": 3.800711743772242,
+      "price": 1405,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T20:13:00",
+      "flight_num": "UA1595",
+      "depart_time": "2017-05-20T18:44:00"
+    },
+    {
+      "agony": 3.8061297220242336,
+      "price": 1403,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-20T22:13:00",
+      "flight_num": "UA1597",
+      "depart_time": "2017-05-20T20:44:00"
+    },
+    {
+      "agony": 3.811563169164882,
+      "price": 1401,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T00:13:00",
+      "flight_num": "UA1599",
+      "depart_time": "2017-05-20T22:44:00"
+    },
+    {
+      "agony": 3.8598999285203717,
+      "price": 1399,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T02:14:00",
+      "flight_num": "UA1601",
+      "depart_time": "2017-05-21T00:44:00"
+    },
+    {
+      "agony": 3.8654259126700072,
+      "price": 1397,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T04:14:00",
+      "flight_num": "UA1603",
+      "depart_time": "2017-05-21T02:44:00"
+    },
+    {
+      "agony": 3.870967741935484,
+      "price": 1395,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T06:14:00",
+      "flight_num": "UA1605",
+      "depart_time": "2017-05-21T04:44:00"
+    },
+    {
+      "agony": 3.8765254845656854,
+      "price": 1393,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T08:14:00",
+      "flight_num": "UA1607",
+      "depart_time": "2017-05-21T06:44:00"
+    },
+    {
+      "agony": 3.882099209202013,
+      "price": 1391,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T10:14:00",
+      "flight_num": "UA1609",
+      "depart_time": "2017-05-21T08:44:00"
+    },
+    {
+      "agony": 3.8876889848812093,
+      "price": 1389,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T12:14:00",
+      "flight_num": "UA1611",
+      "depart_time": "2017-05-21T10:44:00"
+    },
+    {
+      "agony": 3.8932948810382118,
+      "price": 1387,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T14:14:00",
+      "flight_num": "UA1613",
+      "depart_time": "2017-05-21T12:44:00"
+    },
+    {
+      "agony": 3.898916967509025,
+      "price": 1385,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T16:14:00",
+      "flight_num": "UA1615",
+      "depart_time": "2017-05-21T14:44:00"
+    },
+    {
+      "agony": 3.9045553145336225,
+      "price": 1383,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T18:14:00",
+      "flight_num": "UA1617",
+      "depart_time": "2017-05-21T16:44:00"
+    },
+    {
+      "agony": 3.9102099927588703,
+      "price": 1381,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T20:14:00",
+      "flight_num": "UA1619",
+      "depart_time": "2017-05-21T18:44:00"
+    },
+    {
+      "agony": 3.9593908629441623,
+      "price": 1379,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-21T22:15:00",
+      "flight_num": "UA1621",
+      "depart_time": "2017-05-21T20:44:00"
+    },
+    {
+      "agony": 3.9651416122004357,
+      "price": 1377,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T00:15:00",
+      "flight_num": "UA1623",
+      "depart_time": "2017-05-21T22:44:00"
+    },
+    {
+      "agony": 3.9709090909090907,
+      "price": 1375,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T02:15:00",
+      "flight_num": "UA1625",
+      "depart_time": "2017-05-22T00:44:00"
+    },
+    {
+      "agony": 3.976693372177713,
+      "price": 1373,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T04:15:00",
+      "flight_num": "UA1627",
+      "depart_time": "2017-05-22T02:44:00"
+    },
+    {
+      "agony": 3.982494529540481,
+      "price": 1371,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T06:15:00",
+      "flight_num": "UA1629",
+      "depart_time": "2017-05-22T04:44:00"
+    },
+    {
+      "agony": 3.9883126369612856,
+      "price": 1369,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T08:15:00",
+      "flight_num": "UA1631",
+      "depart_time": "2017-05-22T06:44:00"
+    },
+    {
+      "agony": 3.994147768836869,
+      "price": 1367,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T10:15:00",
+      "flight_num": "UA1633",
+      "depart_time": "2017-05-22T08:44:00"
+    },
+    {
+      "agony": 4,
+      "price": 1365,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T12:15:00",
+      "flight_num": "UA1635",
+      "depart_time": "2017-05-22T10:44:00"
+    },
+    {
+      "agony": 4.00586940572267,
+      "price": 1363,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T14:15:00",
+      "flight_num": "UA1637",
+      "depart_time": "2017-05-22T12:44:00"
+    },
+    {
+      "agony": 4.011756061719324,
+      "price": 1361,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T16:15:00",
+      "flight_num": "UA1639",
+      "depart_time": "2017-05-22T14:44:00"
+    },
+    {
+      "agony": 4.061810154525387,
+      "price": 1359,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T18:16:00",
+      "flight_num": "UA1641",
+      "depart_time": "2017-05-22T16:44:00"
+    },
+    {
+      "agony": 4.067796610169491,
+      "price": 1357,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T20:16:00",
+      "flight_num": "UA1643",
+      "depart_time": "2017-05-22T18:44:00"
+    },
+    {
+      "agony": 4.07380073800738,
+      "price": 1355,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-22T22:16:00",
+      "flight_num": "UA1645",
+      "depart_time": "2017-05-22T20:44:00"
+    },
+    {
+      "agony": 4.0798226164079825,
+      "price": 1353,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T00:16:00",
+      "flight_num": "UA1647",
+      "depart_time": "2017-05-22T22:44:00"
+    },
+    {
+      "agony": 4.085862324204293,
+      "price": 1351,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T02:16:00",
+      "flight_num": "UA1649",
+      "depart_time": "2017-05-23T00:44:00"
+    },
+    {
+      "agony": 4.091919940696813,
+      "price": 1349,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T04:16:00",
+      "flight_num": "UA1651",
+      "depart_time": "2017-05-23T02:44:00"
+    },
+    {
+      "agony": 4.097995545657016,
+      "price": 1347,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T06:16:00",
+      "flight_num": "UA1653",
+      "depart_time": "2017-05-23T04:44:00"
+    },
+    {
+      "agony": 4.104089219330855,
+      "price": 1345,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T08:16:00",
+      "flight_num": "UA1655",
+      "depart_time": "2017-05-23T06:44:00"
+    },
+    {
+      "agony": 4.110201042442293,
+      "price": 1343,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T10:16:00",
+      "flight_num": "UA1657",
+      "depart_time": "2017-05-23T08:44:00"
+    },
+    {
+      "agony": 4.116331096196868,
+      "price": 1341,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T12:16:00",
+      "flight_num": "UA1659",
+      "depart_time": "2017-05-23T10:44:00"
+    },
+    {
+      "agony": 4.167289021657954,
+      "price": 1339,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T14:17:00",
+      "flight_num": "UA1661",
+      "depart_time": "2017-05-23T12:44:00"
+    },
+    {
+      "agony": 4.173522812266268,
+      "price": 1337,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T16:17:00",
+      "flight_num": "UA1663",
+      "depart_time": "2017-05-23T14:44:00"
+    },
+    {
+      "agony": 4.179775280898877,
+      "price": 1335,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T18:17:00",
+      "flight_num": "UA1665",
+      "depart_time": "2017-05-23T16:44:00"
+    },
+    {
+      "agony": 4.186046511627907,
+      "price": 1333,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T20:17:00",
+      "flight_num": "UA1667",
+      "depart_time": "2017-05-23T18:44:00"
+    },
+    {
+      "agony": 4.192336589030804,
+      "price": 1331,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-23T22:17:00",
+      "flight_num": "UA1669",
+      "depart_time": "2017-05-23T20:44:00"
+    },
+    {
+      "agony": 4.198645598194131,
+      "price": 1329,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T00:17:00",
+      "flight_num": "UA1671",
+      "depart_time": "2017-05-23T22:44:00"
+    },
+    {
+      "agony": 4.204973624717407,
+      "price": 1327,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T02:17:00",
+      "flight_num": "UA1673",
+      "depart_time": "2017-05-24T00:44:00"
+    },
+    {
+      "agony": 4.211320754716981,
+      "price": 1325,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T04:17:00",
+      "flight_num": "UA1675",
+      "depart_time": "2017-05-24T02:44:00"
+    },
+    {
+      "agony": 4.217687074829932,
+      "price": 1323,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T06:17:00",
+      "flight_num": "UA1677",
+      "depart_time": "2017-05-24T04:44:00"
+    },
+    {
+      "agony": 4.224072672218017,
+      "price": 1321,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T08:17:00",
+      "flight_num": "UA1679",
+      "depart_time": "2017-05-24T06:44:00"
+    },
+    {
+      "agony": 4.275966641394996,
+      "price": 1319,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T10:18:00",
+      "flight_num": "UA1681",
+      "depart_time": "2017-05-24T08:44:00"
+    },
+    {
+      "agony": 4.28246013667426,
+      "price": 1317,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T12:18:00",
+      "flight_num": "UA1683",
+      "depart_time": "2017-05-24T10:44:00"
+    },
+    {
+      "agony": 4.2889733840304185,
+      "price": 1315,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T14:18:00",
+      "flight_num": "UA1685",
+      "depart_time": "2017-05-24T12:44:00"
+    },
+    {
+      "agony": 4.295506473724296,
+      "price": 1313,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T16:18:00",
+      "flight_num": "UA1687",
+      "depart_time": "2017-05-24T14:44:00"
+    },
+    {
+      "agony": 4.302059496567506,
+      "price": 1311,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T18:18:00",
+      "flight_num": "UA1689",
+      "depart_time": "2017-05-24T16:44:00"
+    },
+    {
+      "agony": 4.308632543926661,
+      "price": 1309,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T20:18:00",
+      "flight_num": "UA1691",
+      "depart_time": "2017-05-24T18:44:00"
+    },
+    {
+      "agony": 4.31522570772762,
+      "price": 1307,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-24T22:18:00",
+      "flight_num": "UA1693",
+      "depart_time": "2017-05-24T20:44:00"
+    },
+    {
+      "agony": 4.32183908045977,
+      "price": 1305,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T00:18:00",
+      "flight_num": "UA1695",
+      "depart_time": "2017-05-24T22:44:00"
+    },
+    {
+      "agony": 4.3284727551803535,
+      "price": 1303,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T02:18:00",
+      "flight_num": "UA1697",
+      "depart_time": "2017-05-25T00:44:00"
+    },
+    {
+      "agony": 4.335126825518832,
+      "price": 1301,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T04:18:00",
+      "flight_num": "UA1699",
+      "depart_time": "2017-05-25T02:44:00"
+    },
+    {
+      "agony": 4.387990762124711,
+      "price": 1299,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T06:19:00",
+      "flight_num": "UA1701",
+      "depart_time": "2017-05-25T04:44:00"
+    },
+    {
+      "agony": 4.394757131842714,
+      "price": 1297,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T08:19:00",
+      "flight_num": "UA1703",
+      "depart_time": "2017-05-25T06:44:00"
+    },
+    {
+      "agony": 4.401544401544402,
+      "price": 1295,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T10:19:00",
+      "flight_num": "UA1705",
+      "depart_time": "2017-05-25T08:44:00"
+    },
+    {
+      "agony": 4.408352668213457,
+      "price": 1293,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T12:19:00",
+      "flight_num": "UA1707",
+      "depart_time": "2017-05-25T10:44:00"
+    },
+    {
+      "agony": 4.415182029434547,
+      "price": 1291,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T14:19:00",
+      "flight_num": "UA1709",
+      "depart_time": "2017-05-25T12:44:00"
+    },
+    {
+      "agony": 4.422032583397983,
+      "price": 1289,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T16:19:00",
+      "flight_num": "UA1711",
+      "depart_time": "2017-05-25T14:44:00"
+    },
+    {
+      "agony": 4.428904428904429,
+      "price": 1287,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T18:19:00",
+      "flight_num": "UA1713",
+      "depart_time": "2017-05-25T16:44:00"
+    },
+    {
+      "agony": 4.43579766536965,
+      "price": 1285,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T20:19:00",
+      "flight_num": "UA1715",
+      "depart_time": "2017-05-25T18:44:00"
+    },
+    {
+      "agony": 4.442712392829306,
+      "price": 1283,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-25T22:19:00",
+      "flight_num": "UA1717",
+      "depart_time": "2017-05-25T20:44:00"
+    },
+    {
+      "agony": 4.4496487119437935,
+      "price": 1281,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T00:19:00",
+      "flight_num": "UA1719",
+      "depart_time": "2017-05-25T22:44:00"
+    },
+    {
+      "agony": 4.503518373729476,
+      "price": 1279,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T02:20:00",
+      "flight_num": "UA1721",
+      "depart_time": "2017-05-26T00:44:00"
+    },
+    {
+      "agony": 4.510571652310102,
+      "price": 1277,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T04:20:00",
+      "flight_num": "UA1723",
+      "depart_time": "2017-05-26T02:44:00"
+    },
+    {
+      "agony": 4.517647058823529,
+      "price": 1275,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T06:20:00",
+      "flight_num": "UA1725",
+      "depart_time": "2017-05-26T04:44:00"
+    },
+    {
+      "agony": 4.524744697564808,
+      "price": 1273,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T08:20:00",
+      "flight_num": "UA1727",
+      "depart_time": "2017-05-26T06:44:00"
+    },
+    {
+      "agony": 4.531864673485445,
+      "price": 1271,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T10:20:00",
+      "flight_num": "UA1729",
+      "depart_time": "2017-05-26T08:44:00"
+    },
+    {
+      "agony": 4.539007092198582,
+      "price": 1269,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T12:20:00",
+      "flight_num": "UA1731",
+      "depart_time": "2017-05-26T10:44:00"
+    },
+    {
+      "agony": 4.546172059984214,
+      "price": 1267,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T14:20:00",
+      "flight_num": "UA1733",
+      "depart_time": "2017-05-26T12:44:00"
+    },
+    {
+      "agony": 4.553359683794467,
+      "price": 1265,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T16:20:00",
+      "flight_num": "UA1735",
+      "depart_time": "2017-05-26T14:44:00"
+    },
+    {
+      "agony": 4.5605700712589075,
+      "price": 1263,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T18:20:00",
+      "flight_num": "UA1737",
+      "depart_time": "2017-05-26T16:44:00"
+    },
+    {
+      "agony": 4.567803330689928,
+      "price": 1261,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T20:20:00",
+      "flight_num": "UA1739",
+      "depart_time": "2017-05-26T18:44:00"
+    },
+    {
+      "agony": 4.622716441620334,
+      "price": 1259,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-26T22:21:00",
+      "flight_num": "UA1741",
+      "depart_time": "2017-05-26T20:44:00"
+    },
+    {
+      "agony": 4.630071599045346,
+      "price": 1257,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T00:21:00",
+      "flight_num": "UA1743",
+      "depart_time": "2017-05-26T22:44:00"
+    },
+    {
+      "agony": 4.637450199203188,
+      "price": 1255,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T02:21:00",
+      "flight_num": "UA1745",
+      "depart_time": "2017-05-27T00:44:00"
+    },
+    {
+      "agony": 4.6448523543495615,
+      "price": 1253,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T04:21:00",
+      "flight_num": "UA1747",
+      "depart_time": "2017-05-27T02:44:00"
+    },
+    {
+      "agony": 4.652278177458034,
+      "price": 1251,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T06:21:00",
+      "flight_num": "UA1749",
+      "depart_time": "2017-05-27T04:44:00"
+    },
+    {
+      "agony": 4.65972778222578,
+      "price": 1249,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T08:21:00",
+      "flight_num": "UA1751",
+      "depart_time": "2017-05-27T06:44:00"
+    },
+    {
+      "agony": 4.6672012830793905,
+      "price": 1247,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T10:21:00",
+      "flight_num": "UA1753",
+      "depart_time": "2017-05-27T08:44:00"
+    },
+    {
+      "agony": 4.674698795180723,
+      "price": 1245,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T12:21:00",
+      "flight_num": "UA1755",
+      "depart_time": "2017-05-27T10:44:00"
+    },
+    {
+      "agony": 4.682220434432824,
+      "price": 1243,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T14:21:00",
+      "flight_num": "UA1757",
+      "depart_time": "2017-05-27T12:44:00"
+    },
+    {
+      "agony": 4.689766317485899,
+      "price": 1241,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T16:21:00",
+      "flight_num": "UA1759",
+      "depart_time": "2017-05-27T14:44:00"
+    },
+    {
+      "agony": 4.745762711864407,
+      "price": 1239,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T18:22:00",
+      "flight_num": "UA1761",
+      "depart_time": "2017-05-27T16:44:00"
+    },
+    {
+      "agony": 4.753435731608731,
+      "price": 1237,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T20:22:00",
+      "flight_num": "UA1763",
+      "depart_time": "2017-05-27T18:44:00"
+    },
+    {
+      "agony": 4.761133603238866,
+      "price": 1235,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-27T22:22:00",
+      "flight_num": "UA1765",
+      "depart_time": "2017-05-27T20:44:00"
+    },
+    {
+      "agony": 4.768856447688565,
+      "price": 1233,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T00:22:00",
+      "flight_num": "UA1767",
+      "depart_time": "2017-05-27T22:44:00"
+    },
+    {
+      "agony": 4.776604386677498,
+      "price": 1231,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T02:22:00",
+      "flight_num": "UA1769",
+      "depart_time": "2017-05-28T00:44:00"
+    },
+    {
+      "agony": 4.784377542717657,
+      "price": 1229,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T04:22:00",
+      "flight_num": "UA1771",
+      "depart_time": "2017-05-28T02:44:00"
+    },
+    {
+      "agony": 4.792176039119805,
+      "price": 1227,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T06:22:00",
+      "flight_num": "UA1773",
+      "depart_time": "2017-05-28T04:44:00"
+    },
+    {
+      "agony": 4.8,
+      "price": 1225,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T08:22:00",
+      "flight_num": "UA1775",
+      "depart_time": "2017-05-28T06:44:00"
+    },
+    {
+      "agony": 4.807849550286181,
+      "price": 1223,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T10:22:00",
+      "flight_num": "UA1777",
+      "depart_time": "2017-05-28T08:44:00"
+    },
+    {
+      "agony": 4.815724815724816,
+      "price": 1221,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T12:22:00",
+      "flight_num": "UA1779",
+      "depart_time": "2017-05-28T10:44:00"
+    },
+    {
+      "agony": 4.87284659557014,
+      "price": 1219,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T14:23:00",
+      "flight_num": "UA1781",
+      "depart_time": "2017-05-28T12:44:00"
+    },
+    {
+      "agony": 4.880854560394413,
+      "price": 1217,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T16:23:00",
+      "flight_num": "UA1783",
+      "depart_time": "2017-05-28T14:44:00"
+    },
+    {
+      "agony": 4.888888888888889,
+      "price": 1215,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T18:23:00",
+      "flight_num": "UA1785",
+      "depart_time": "2017-05-28T16:44:00"
+    },
+    {
+      "agony": 4.896949711459192,
+      "price": 1213,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T20:23:00",
+      "flight_num": "UA1787",
+      "depart_time": "2017-05-28T18:44:00"
+    },
+    {
+      "agony": 4.905037159372419,
+      "price": 1211,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-28T22:23:00",
+      "flight_num": "UA1789",
+      "depart_time": "2017-05-28T20:44:00"
+    },
+    {
+      "agony": 4.913151364764268,
+      "price": 1209,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T00:23:00",
+      "flight_num": "UA1791",
+      "depart_time": "2017-05-28T22:44:00"
+    },
+    {
+      "agony": 4.921292460646231,
+      "price": 1207,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T02:23:00",
+      "flight_num": "UA1793",
+      "depart_time": "2017-05-29T00:44:00"
+    },
+    {
+      "agony": 4.929460580912863,
+      "price": 1205,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T04:23:00",
+      "flight_num": "UA1795",
+      "depart_time": "2017-05-29T02:44:00"
+    },
+    {
+      "agony": 4.937655860349127,
+      "price": 1203,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T06:23:00",
+      "flight_num": "UA1797",
+      "depart_time": "2017-05-29T04:44:00"
+    },
+    {
+      "agony": 4.945878434637802,
+      "price": 1201,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T08:23:00",
+      "flight_num": "UA1799",
+      "depart_time": "2017-05-29T06:44:00"
+    },
+    {
+      "agony": 5.004170141784821,
+      "price": 1199,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T10:24:00",
+      "flight_num": "UA1801",
+      "depart_time": "2017-05-29T08:44:00"
+    },
+    {
+      "agony": 5.012531328320802,
+      "price": 1197,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T12:24:00",
+      "flight_num": "UA1803",
+      "depart_time": "2017-05-29T10:44:00"
+    },
+    {
+      "agony": 5.02092050209205,
+      "price": 1195,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T14:24:00",
+      "flight_num": "UA1805",
+      "depart_time": "2017-05-29T12:44:00"
+    },
+    {
+      "agony": 5.029337803855825,
+      "price": 1193,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T16:24:00",
+      "flight_num": "UA1807",
+      "depart_time": "2017-05-29T14:44:00"
+    },
+    {
+      "agony": 5.037783375314861,
+      "price": 1191,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T18:24:00",
+      "flight_num": "UA1809",
+      "depart_time": "2017-05-29T16:44:00"
+    },
+    {
+      "agony": 5.046257359125315,
+      "price": 1189,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T20:24:00",
+      "flight_num": "UA1811",
+      "depart_time": "2017-05-29T18:44:00"
+    },
+    {
+      "agony": 5.054759898904802,
+      "price": 1187,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-29T22:24:00",
+      "flight_num": "UA1813",
+      "depart_time": "2017-05-29T20:44:00"
+    },
+    {
+      "agony": 5.063291139240507,
+      "price": 1185,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T00:24:00",
+      "flight_num": "UA1815",
+      "depart_time": "2017-05-29T22:44:00"
+    },
+    {
+      "agony": 5.07185122569738,
+      "price": 1183,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T02:24:00",
+      "flight_num": "UA1817",
+      "depart_time": "2017-05-30T00:44:00"
+    },
+    {
+      "agony": 5.080440304826419,
+      "price": 1181,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T04:24:00",
+      "flight_num": "UA1819",
+      "depart_time": "2017-05-30T02:44:00"
+    },
+    {
+      "agony": 5.139949109414759,
+      "price": 1179,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T06:25:00",
+      "flight_num": "UA1821",
+      "depart_time": "2017-05-30T04:44:00"
+    },
+    {
+      "agony": 5.1486830926083265,
+      "price": 1177,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T08:25:00",
+      "flight_num": "UA1823",
+      "depart_time": "2017-05-30T06:44:00"
+    },
+    {
+      "agony": 5.157446808510638,
+      "price": 1175,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T10:25:00",
+      "flight_num": "UA1825",
+      "depart_time": "2017-05-30T08:44:00"
+    },
+    {
+      "agony": 5.166240409207161,
+      "price": 1173,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T12:25:00",
+      "flight_num": "UA1827",
+      "depart_time": "2017-05-30T10:44:00"
+    },
+    {
+      "agony": 5.175064047822374,
+      "price": 1171,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T14:25:00",
+      "flight_num": "UA1829",
+      "depart_time": "2017-05-30T12:44:00"
+    },
+    {
+      "agony": 5.183917878528657,
+      "price": 1169,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T16:25:00",
+      "flight_num": "UA1831",
+      "depart_time": "2017-05-30T14:44:00"
+    },
+    {
+      "agony": 5.19280205655527,
+      "price": 1167,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T18:25:00",
+      "flight_num": "UA1833",
+      "depart_time": "2017-05-30T16:44:00"
+    },
+    {
+      "agony": 5.201716738197425,
+      "price": 1165,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T20:25:00",
+      "flight_num": "UA1835",
+      "depart_time": "2017-05-30T18:44:00"
+    },
+    {
+      "agony": 5.210662080825451,
+      "price": 1163,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-30T22:25:00",
+      "flight_num": "UA1837",
+      "depart_time": "2017-05-30T20:44:00"
+    },
+    {
+      "agony": 5.219638242894057,
+      "price": 1161,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T00:25:00",
+      "flight_num": "UA1839",
+      "depart_time": "2017-05-30T22:44:00"
+    },
+    {
+      "agony": 5.280414150129422,
+      "price": 1159,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T02:26:00",
+      "flight_num": "UA1841",
+      "depart_time": "2017-05-31T00:44:00"
+    },
+    {
+      "agony": 5.289541918755402,
+      "price": 1157,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T04:26:00",
+      "flight_num": "UA1843",
+      "depart_time": "2017-05-31T02:44:00"
+    },
+    {
+      "agony": 5.298701298701299,
+      "price": 1155,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T06:26:00",
+      "flight_num": "UA1845",
+      "depart_time": "2017-05-31T04:44:00"
+    },
+    {
+      "agony": 5.307892454466609,
+      "price": 1153,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T08:26:00",
+      "flight_num": "UA1847",
+      "depart_time": "2017-05-31T06:44:00"
+    },
+    {
+      "agony": 5.317115551694179,
+      "price": 1151,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T10:26:00",
+      "flight_num": "UA1849",
+      "depart_time": "2017-05-31T08:44:00"
+    },
+    {
+      "agony": 5.326370757180157,
+      "price": 1149,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T12:26:00",
+      "flight_num": "UA1851",
+      "depart_time": "2017-05-31T10:44:00"
+    },
+    {
+      "agony": 5.3356582388840454,
+      "price": 1147,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T14:26:00",
+      "flight_num": "UA1853",
+      "depart_time": "2017-05-31T12:44:00"
+    },
+    {
+      "agony": 5.344978165938865,
+      "price": 1145,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T16:26:00",
+      "flight_num": "UA1855",
+      "depart_time": "2017-05-31T14:44:00"
+    },
+    {
+      "agony": 5.354330708661418,
+      "price": 1143,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T18:26:00",
+      "flight_num": "UA1857",
+      "depart_time": "2017-05-31T16:44:00"
+    },
+    {
+      "agony": 5.363716038562664,
+      "price": 1141,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T20:26:00",
+      "flight_num": "UA1859",
+      "depart_time": "2017-05-31T18:44:00"
+    },
+    {
+      "agony": 5.425812115891133,
+      "price": 1139,
+      "provider": "Priceline",
+      "arrive_time": "2017-05-31T22:27:00",
+      "flight_num": "UA1861",
+      "depart_time": "2017-05-31T20:44:00"
+    },
+    {
+      "agony": 5.435356200527704,
+      "price": 1137,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T00:27:00",
+      "flight_num": "UA1863",
+      "depart_time": "2017-05-31T22:44:00"
+    },
+    {
+      "agony": 5.4449339207048455,
+      "price": 1135,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T02:27:00",
+      "flight_num": "UA1865",
+      "depart_time": "2017-06-01T00:44:00"
+    },
+    {
+      "agony": 5.454545454545454,
+      "price": 1133,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T04:27:00",
+      "flight_num": "UA1867",
+      "depart_time": "2017-06-01T02:44:00"
+    },
+    {
+      "agony": 5.464190981432361,
+      "price": 1131,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T06:27:00",
+      "flight_num": "UA1869",
+      "depart_time": "2017-06-01T04:44:00"
+    },
+    {
+      "agony": 5.473870682019486,
+      "price": 1129,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T08:27:00",
+      "flight_num": "UA1871",
+      "depart_time": "2017-06-01T06:44:00"
+    },
+    {
+      "agony": 5.483584738243123,
+      "price": 1127,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T10:27:00",
+      "flight_num": "UA1873",
+      "depart_time": "2017-06-01T08:44:00"
+    },
+    {
+      "agony": 5.493333333333333,
+      "price": 1125,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T12:27:00",
+      "flight_num": "UA1875",
+      "depart_time": "2017-06-01T10:44:00"
+    },
+    {
+      "agony": 5.503116651825468,
+      "price": 1123,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T14:27:00",
+      "flight_num": "UA1877",
+      "depart_time": "2017-06-01T12:44:00"
+    },
+    {
+      "agony": 5.5129348795718105,
+      "price": 1121,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T16:27:00",
+      "flight_num": "UA1879",
+      "depart_time": "2017-06-01T14:44:00"
+    },
+    {
+      "agony": 5.576407506702413,
+      "price": 1119,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T18:28:00",
+      "flight_num": "UA1881",
+      "depart_time": "2017-06-01T16:44:00"
+    },
+    {
+      "agony": 5.5863921217547,
+      "price": 1117,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T20:28:00",
+      "flight_num": "UA1883",
+      "depart_time": "2017-06-01T18:44:00"
+    },
+    {
+      "agony": 5.596412556053812,
+      "price": 1115,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-01T22:28:00",
+      "flight_num": "UA1885",
+      "depart_time": "2017-06-01T20:44:00"
+    },
+    {
+      "agony": 5.606469002695418,
+      "price": 1113,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T00:28:00",
+      "flight_num": "UA1887",
+      "depart_time": "2017-06-01T22:44:00"
+    },
+    {
+      "agony": 5.616561656165617,
+      "price": 1111,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T02:28:00",
+      "flight_num": "UA1889",
+      "depart_time": "2017-06-02T00:44:00"
+    },
+    {
+      "agony": 5.626690712353471,
+      "price": 1109,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T04:28:00",
+      "flight_num": "UA1891",
+      "depart_time": "2017-06-02T02:44:00"
+    },
+    {
+      "agony": 5.636856368563685,
+      "price": 1107,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T06:28:00",
+      "flight_num": "UA1893",
+      "depart_time": "2017-06-02T04:44:00"
+    },
+    {
+      "agony": 5.647058823529412,
+      "price": 1105,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T08:28:00",
+      "flight_num": "UA1895",
+      "depart_time": "2017-06-02T06:44:00"
+    },
+    {
+      "agony": 5.657298277425204,
+      "price": 1103,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T10:28:00",
+      "flight_num": "UA1897",
+      "depart_time": "2017-06-02T08:44:00"
+    },
+    {
+      "agony": 5.667574931880109,
+      "price": 1101,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T12:28:00",
+      "flight_num": "UA1899",
+      "depart_time": "2017-06-02T10:44:00"
+    },
+    {
+      "agony": 5.732484076433121,
+      "price": 1099,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T14:29:00",
+      "flight_num": "UA1901",
+      "depart_time": "2017-06-02T12:44:00"
+    },
+    {
+      "agony": 5.742935278030994,
+      "price": 1097,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T16:29:00",
+      "flight_num": "UA1903",
+      "depart_time": "2017-06-02T14:44:00"
+    },
+    {
+      "agony": 5.7534246575342465,
+      "price": 1095,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T18:29:00",
+      "flight_num": "UA1905",
+      "depart_time": "2017-06-02T16:44:00"
+    },
+    {
+      "agony": 5.763952424519671,
+      "price": 1093,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T20:29:00",
+      "flight_num": "UA1907",
+      "depart_time": "2017-06-02T18:44:00"
+    },
+    {
+      "agony": 5.774518790100825,
+      "price": 1091,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-02T22:29:00",
+      "flight_num": "UA1909",
+      "depart_time": "2017-06-02T20:44:00"
+    },
+    {
+      "agony": 5.785123966942149,
+      "price": 1089,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T00:29:00",
+      "flight_num": "UA1911",
+      "depart_time": "2017-06-02T22:44:00"
+    },
+    {
+      "agony": 5.795768169273229,
+      "price": 1087,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T02:29:00",
+      "flight_num": "UA1913",
+      "depart_time": "2017-06-03T00:44:00"
+    },
+    {
+      "agony": 5.806451612903226,
+      "price": 1085,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T04:29:00",
+      "flight_num": "UA1915",
+      "depart_time": "2017-06-03T02:44:00"
+    },
+    {
+      "agony": 5.8171745152354575,
+      "price": 1083,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T06:29:00",
+      "flight_num": "UA1917",
+      "depart_time": "2017-06-03T04:44:00"
+    },
+    {
+      "agony": 5.827937095282146,
+      "price": 1081,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T08:29:00",
+      "flight_num": "UA1919",
+      "depart_time": "2017-06-03T06:44:00"
+    },
+    {
+      "agony": 5.894346617238184,
+      "price": 1079,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T10:30:00",
+      "flight_num": "UA1921",
+      "depart_time": "2017-06-03T08:44:00"
+    },
+    {
+      "agony": 5.905292479108635,
+      "price": 1077,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T12:30:00",
+      "flight_num": "UA1923",
+      "depart_time": "2017-06-03T10:44:00"
+    },
+    {
+      "agony": 5.916279069767442,
+      "price": 1075,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T14:30:00",
+      "flight_num": "UA1925",
+      "depart_time": "2017-06-03T12:44:00"
+    },
+    {
+      "agony": 5.927306616961789,
+      "price": 1073,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T16:30:00",
+      "flight_num": "UA1927",
+      "depart_time": "2017-06-03T14:44:00"
+    },
+    {
+      "agony": 5.938375350140056,
+      "price": 1071,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T18:30:00",
+      "flight_num": "UA1929",
+      "depart_time": "2017-06-03T16:44:00"
+    },
+    {
+      "agony": 5.949485500467727,
+      "price": 1069,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T20:30:00",
+      "flight_num": "UA1931",
+      "depart_time": "2017-06-03T18:44:00"
+    },
+    {
+      "agony": 5.960637300843486,
+      "price": 1067,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-03T22:30:00",
+      "flight_num": "UA1933",
+      "depart_time": "2017-06-03T20:44:00"
+    },
+    {
+      "agony": 5.971830985915493,
+      "price": 1065,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T00:30:00",
+      "flight_num": "UA1935",
+      "depart_time": "2017-06-03T22:44:00"
+    },
+    {
+      "agony": 5.983066792097836,
+      "price": 1063,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T02:30:00",
+      "flight_num": "UA1937",
+      "depart_time": "2017-06-04T00:44:00"
+    },
+    {
+      "agony": 5.994344957587182,
+      "price": 1061,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T04:30:00",
+      "flight_num": "UA1939",
+      "depart_time": "2017-06-04T02:44:00"
+    },
+    {
+      "agony": 6.062322946175637,
+      "price": 1059,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T06:31:00",
+      "flight_num": "UA1941",
+      "depart_time": "2017-06-04T04:44:00"
+    },
+    {
+      "agony": 6.073793755912961,
+      "price": 1057,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T08:31:00",
+      "flight_num": "UA1943",
+      "depart_time": "2017-06-04T06:44:00"
+    },
+    {
+      "agony": 6.085308056872038,
+      "price": 1055,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T10:31:00",
+      "flight_num": "UA1945",
+      "depart_time": "2017-06-04T08:44:00"
+    },
+    {
+      "agony": 6.096866096866097,
+      "price": 1053,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T12:31:00",
+      "flight_num": "UA1947",
+      "depart_time": "2017-06-04T10:44:00"
+    },
+    {
+      "agony": 6.108468125594672,
+      "price": 1051,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T14:31:00",
+      "flight_num": "UA1949",
+      "depart_time": "2017-06-04T12:44:00"
+    },
+    {
+      "agony": 6.120114394661583,
+      "price": 1049,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T16:31:00",
+      "flight_num": "UA1951",
+      "depart_time": "2017-06-04T14:44:00"
+    },
+    {
+      "agony": 6.131805157593123,
+      "price": 1047,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T18:31:00",
+      "flight_num": "UA1953",
+      "depart_time": "2017-06-04T16:44:00"
+    },
+    {
+      "agony": 6.143540669856459,
+      "price": 1045,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T20:31:00",
+      "flight_num": "UA1955",
+      "depart_time": "2017-06-04T18:44:00"
+    },
+    {
+      "agony": 6.1553211888782355,
+      "price": 1043,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-04T22:31:00",
+      "flight_num": "UA1957",
+      "depart_time": "2017-06-04T20:44:00"
+    },
+    {
+      "agony": 6.1671469740634,
+      "price": 1041,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T00:31:00",
+      "flight_num": "UA1959",
+      "depart_time": "2017-06-04T22:44:00"
+    },
+    {
+      "agony": 6.236766121270453,
+      "price": 1039,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T02:32:00",
+      "flight_num": "UA1961",
+      "depart_time": "2017-06-05T00:44:00"
+    },
+    {
+      "agony": 6.248794599807136,
+      "price": 1037,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T04:32:00",
+      "flight_num": "UA1963",
+      "depart_time": "2017-06-05T02:44:00"
+    },
+    {
+      "agony": 6.260869565217392,
+      "price": 1035,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T06:32:00",
+      "flight_num": "UA1965",
+      "depart_time": "2017-06-05T04:44:00"
+    },
+    {
+      "agony": 6.2729912875121006,
+      "price": 1033,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T08:32:00",
+      "flight_num": "UA1967",
+      "depart_time": "2017-06-05T06:44:00"
+    },
+    {
+      "agony": 6.285160038797284,
+      "price": 1031,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T10:32:00",
+      "flight_num": "UA1969",
+      "depart_time": "2017-06-05T08:44:00"
+    },
+    {
+      "agony": 6.297376093294461,
+      "price": 1029,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T12:32:00",
+      "flight_num": "UA1971",
+      "depart_time": "2017-06-05T10:44:00"
+    },
+    {
+      "agony": 6.309639727361247,
+      "price": 1027,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T14:32:00",
+      "flight_num": "UA1973",
+      "depart_time": "2017-06-05T12:44:00"
+    },
+    {
+      "agony": 6.321951219512195,
+      "price": 1025,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T16:32:00",
+      "flight_num": "UA1975",
+      "depart_time": "2017-06-05T14:44:00"
+    },
+    {
+      "agony": 6.334310850439882,
+      "price": 1023,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T18:32:00",
+      "flight_num": "UA1977",
+      "depart_time": "2017-06-05T16:44:00"
+    },
+    {
+      "agony": 6.346718903036239,
+      "price": 1021,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T20:32:00",
+      "flight_num": "UA1979",
+      "depart_time": "2017-06-05T18:44:00"
+    },
+    {
+      "agony": 6.418056918547595,
+      "price": 1019,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-05T22:33:00",
+      "flight_num": "UA1981",
+      "depart_time": "2017-06-05T20:44:00"
+    },
+    {
+      "agony": 6.430678466076696,
+      "price": 1017,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T00:33:00",
+      "flight_num": "UA1983",
+      "depart_time": "2017-06-05T22:44:00"
+    },
+    {
+      "agony": 6.443349753694581,
+      "price": 1015,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T02:33:00",
+      "flight_num": "UA1985",
+      "depart_time": "2017-06-06T00:44:00"
+    },
+    {
+      "agony": 6.456071076011846,
+      "price": 1013,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T04:33:00",
+      "flight_num": "UA1987",
+      "depart_time": "2017-06-06T02:44:00"
+    },
+    {
+      "agony": 6.468842729970326,
+      "price": 1011,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T06:33:00",
+      "flight_num": "UA1989",
+      "depart_time": "2017-06-06T04:44:00"
+    },
+    {
+      "agony": 6.481665014866204,
+      "price": 1009,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T08:33:00",
+      "flight_num": "UA1991",
+      "depart_time": "2017-06-06T06:44:00"
+    },
+    {
+      "agony": 6.494538232373387,
+      "price": 1007,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T10:33:00",
+      "flight_num": "UA1993",
+      "depart_time": "2017-06-06T08:44:00"
+    },
+    {
+      "agony": 6.507462686567164,
+      "price": 1005,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T12:33:00",
+      "flight_num": "UA1995",
+      "depart_time": "2017-06-06T10:44:00"
+    },
+    {
+      "agony": 6.520438683948155,
+      "price": 1003,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T14:33:00",
+      "flight_num": "UA1997",
+      "depart_time": "2017-06-06T12:44:00"
+    },
+    {
+      "agony": 6.533466533466534,
+      "price": 1001,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T16:33:00",
+      "flight_num": "UA1999",
+      "depart_time": "2017-06-06T14:44:00"
+    },
+    {
+      "agony": 6.606606606606607,
+      "price": 999,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T18:34:00",
+      "flight_num": "UA2001",
+      "depart_time": "2017-06-06T16:44:00"
+    },
+    {
+      "agony": 6.619859578736208,
+      "price": 997,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T20:34:00",
+      "flight_num": "UA2003",
+      "depart_time": "2017-06-06T18:44:00"
+    },
+    {
+      "agony": 6.633165829145729,
+      "price": 995,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-06T22:34:00",
+      "flight_num": "UA2005",
+      "depart_time": "2017-06-06T20:44:00"
+    },
+    {
+      "agony": 6.646525679758308,
+      "price": 993,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T00:34:00",
+      "flight_num": "UA2007",
+      "depart_time": "2017-06-06T22:44:00"
+    },
+    {
+      "agony": 6.659939455095863,
+      "price": 991,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T02:34:00",
+      "flight_num": "UA2009",
+      "depart_time": "2017-06-07T00:44:00"
+    },
+    {
+      "agony": 6.673407482305359,
+      "price": 989,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T04:34:00",
+      "flight_num": "UA2011",
+      "depart_time": "2017-06-07T02:44:00"
+    },
+    {
+      "agony": 6.686930091185411,
+      "price": 987,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T06:34:00",
+      "flight_num": "UA2013",
+      "depart_time": "2017-06-07T04:44:00"
+    },
+    {
+      "agony": 6.700507614213198,
+      "price": 985,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T08:34:00",
+      "flight_num": "UA2015",
+      "depart_time": "2017-06-07T06:44:00"
+    },
+    {
+      "agony": 6.714140386571719,
+      "price": 983,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T10:34:00",
+      "flight_num": "UA2017",
+      "depart_time": "2017-06-07T08:44:00"
+    },
+    {
+      "agony": 6.72782874617737,
+      "price": 981,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T12:34:00",
+      "flight_num": "UA2019",
+      "depart_time": "2017-06-07T10:44:00"
+    },
+    {
+      "agony": 6.802860061287028,
+      "price": 979,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T14:35:00",
+      "flight_num": "UA2021",
+      "depart_time": "2017-06-07T12:44:00"
+    },
+    {
+      "agony": 6.816786079836233,
+      "price": 977,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T16:35:00",
+      "flight_num": "UA2023",
+      "depart_time": "2017-06-07T14:44:00"
+    },
+    {
+      "agony": 6.8307692307692305,
+      "price": 975,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T18:35:00",
+      "flight_num": "UA2025",
+      "depart_time": "2017-06-07T16:44:00"
+    },
+    {
+      "agony": 6.8448098663926,
+      "price": 973,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T20:35:00",
+      "flight_num": "UA2027",
+      "depart_time": "2017-06-07T18:44:00"
+    },
+    {
+      "agony": 6.8589083419155505,
+      "price": 971,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-07T22:35:00",
+      "flight_num": "UA2029",
+      "depart_time": "2017-06-07T20:44:00"
+    },
+    {
+      "agony": 6.8730650154798765,
+      "price": 969,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T00:35:00",
+      "flight_num": "UA2031",
+      "depart_time": "2017-06-07T22:44:00"
+    },
+    {
+      "agony": 6.8872802481902795,
+      "price": 967,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T02:35:00",
+      "flight_num": "UA2033",
+      "depart_time": "2017-06-08T00:44:00"
+    },
+    {
+      "agony": 6.901554404145077,
+      "price": 965,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T04:35:00",
+      "flight_num": "UA2035",
+      "depart_time": "2017-06-08T02:44:00"
+    },
+    {
+      "agony": 6.91588785046729,
+      "price": 963,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T06:35:00",
+      "flight_num": "UA2037",
+      "depart_time": "2017-06-08T04:44:00"
+    },
+    {
+      "agony": 6.930280957336108,
+      "price": 961,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T08:35:00",
+      "flight_num": "UA2039",
+      "depart_time": "2017-06-08T06:44:00"
+    },
+    {
+      "agony": 7.007299270072993,
+      "price": 959,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T10:36:00",
+      "flight_num": "UA2041",
+      "depart_time": "2017-06-08T08:44:00"
+    },
+    {
+      "agony": 7.021943573667712,
+      "price": 957,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T12:36:00",
+      "flight_num": "UA2043",
+      "depart_time": "2017-06-08T10:44:00"
+    },
+    {
+      "agony": 7.036649214659686,
+      "price": 955,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T14:36:00",
+      "flight_num": "UA2045",
+      "depart_time": "2017-06-08T12:44:00"
+    },
+    {
+      "agony": 7.051416579223504,
+      "price": 953,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T16:36:00",
+      "flight_num": "UA2047",
+      "depart_time": "2017-06-08T14:44:00"
+    },
+    {
+      "agony": 7.066246056782334,
+      "price": 951,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T18:36:00",
+      "flight_num": "UA2049",
+      "depart_time": "2017-06-08T16:44:00"
+    },
+    {
+      "agony": 7.081138040042149,
+      "price": 949,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T20:36:00",
+      "flight_num": "UA2051",
+      "depart_time": "2017-06-08T18:44:00"
+    },
+    {
+      "agony": 7.096092925026399,
+      "price": 947,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-08T22:36:00",
+      "flight_num": "UA2053",
+      "depart_time": "2017-06-08T20:44:00"
+    },
+    {
+      "agony": 7.111111111111111,
+      "price": 945,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T00:36:00",
+      "flight_num": "UA2055",
+      "depart_time": "2017-06-08T22:44:00"
+    },
+    {
+      "agony": 7.126193001060446,
+      "price": 943,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T02:36:00",
+      "flight_num": "UA2057",
+      "depart_time": "2017-06-09T00:44:00"
+    },
+    {
+      "agony": 7.1413390010627,
+      "price": 941,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T04:36:00",
+      "flight_num": "UA2059",
+      "depart_time": "2017-06-09T02:44:00"
+    },
+    {
+      "agony": 7.220447284345048,
+      "price": 939,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T06:37:00",
+      "flight_num": "UA2061",
+      "depart_time": "2017-06-09T04:44:00"
+    },
+    {
+      "agony": 7.235859124866596,
+      "price": 937,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T08:37:00",
+      "flight_num": "UA2063",
+      "depart_time": "2017-06-09T06:44:00"
+    },
+    {
+      "agony": 7.251336898395722,
+      "price": 935,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T10:37:00",
+      "flight_num": "UA2065",
+      "depart_time": "2017-06-09T08:44:00"
+    },
+    {
+      "agony": 7.266881028938907,
+      "price": 933,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T12:37:00",
+      "flight_num": "UA2067",
+      "depart_time": "2017-06-09T10:44:00"
+    },
+    {
+      "agony": 7.28249194414608,
+      "price": 931,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T14:37:00",
+      "flight_num": "UA2069",
+      "depart_time": "2017-06-09T12:44:00"
+    },
+    {
+      "agony": 7.298170075349838,
+      "price": 929,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T16:37:00",
+      "flight_num": "UA2071",
+      "depart_time": "2017-06-09T14:44:00"
+    },
+    {
+      "agony": 7.313915857605178,
+      "price": 927,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T18:37:00",
+      "flight_num": "UA2073",
+      "depart_time": "2017-06-09T16:44:00"
+    },
+    {
+      "agony": 7.3297297297297295,
+      "price": 925,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T20:37:00",
+      "flight_num": "UA2075",
+      "depart_time": "2017-06-09T18:44:00"
+    },
+    {
+      "agony": 7.345612134344528,
+      "price": 923,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-09T22:37:00",
+      "flight_num": "UA2077",
+      "depart_time": "2017-06-09T20:44:00"
+    },
+    {
+      "agony": 7.361563517915309,
+      "price": 921,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T00:37:00",
+      "flight_num": "UA2079",
+      "depart_time": "2017-06-09T22:44:00"
+    },
+    {
+      "agony": 7.4428726877040265,
+      "price": 919,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T02:38:00",
+      "flight_num": "UA2081",
+      "depart_time": "2017-06-10T00:44:00"
+    },
+    {
+      "agony": 7.459105779716467,
+      "price": 917,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T04:38:00",
+      "flight_num": "UA2083",
+      "depart_time": "2017-06-10T02:44:00"
+    },
+    {
+      "agony": 7.475409836065574,
+      "price": 915,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T06:38:00",
+      "flight_num": "UA2085",
+      "depart_time": "2017-06-10T04:44:00"
+    },
+    {
+      "agony": 7.491785323110625,
+      "price": 913,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T08:38:00",
+      "flight_num": "UA2087",
+      "depart_time": "2017-06-10T06:44:00"
+    },
+    {
+      "agony": 7.508232711306257,
+      "price": 911,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T10:38:00",
+      "flight_num": "UA2089",
+      "depart_time": "2017-06-10T08:44:00"
+    },
+    {
+      "agony": 7.524752475247524,
+      "price": 909,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T12:38:00",
+      "flight_num": "UA2091",
+      "depart_time": "2017-06-10T10:44:00"
+    },
+    {
+      "agony": 7.541345093715546,
+      "price": 907,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T14:38:00",
+      "flight_num": "UA2093",
+      "depart_time": "2017-06-10T12:44:00"
+    },
+    {
+      "agony": 7.558011049723757,
+      "price": 905,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T16:38:00",
+      "flight_num": "UA2095",
+      "depart_time": "2017-06-10T14:44:00"
+    },
+    {
+      "agony": 7.574750830564784,
+      "price": 903,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T18:38:00",
+      "flight_num": "UA2097",
+      "depart_time": "2017-06-10T16:44:00"
+    },
+    {
+      "agony": 7.591564927857935,
+      "price": 901,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T20:38:00",
+      "flight_num": "UA2099",
+      "depart_time": "2017-06-10T18:44:00"
+    },
+    {
+      "agony": 7.6751946607341495,
+      "price": 899,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-10T22:39:00",
+      "flight_num": "UA2101",
+      "depart_time": "2017-06-10T20:44:00"
+    },
+    {
+      "agony": 7.6923076923076925,
+      "price": 897,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T00:39:00",
+      "flight_num": "UA2103",
+      "depart_time": "2017-06-10T22:44:00"
+    },
+    {
+      "agony": 7.709497206703911,
+      "price": 895,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T02:39:00",
+      "flight_num": "UA2105",
+      "depart_time": "2017-06-11T00:44:00"
+    },
+    {
+      "agony": 7.726763717805151,
+      "price": 893,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T04:39:00",
+      "flight_num": "UA2107",
+      "depart_time": "2017-06-11T02:44:00"
+    },
+    {
+      "agony": 7.744107744107744,
+      "price": 891,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T06:39:00",
+      "flight_num": "UA2109",
+      "depart_time": "2017-06-11T04:44:00"
+    },
+    {
+      "agony": 7.761529808773903,
+      "price": 889,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T08:39:00",
+      "flight_num": "UA2111",
+      "depart_time": "2017-06-11T06:44:00"
+    },
+    {
+      "agony": 7.7790304396843295,
+      "price": 887,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T10:39:00",
+      "flight_num": "UA2113",
+      "depart_time": "2017-06-11T08:44:00"
+    },
+    {
+      "agony": 7.796610169491525,
+      "price": 885,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T12:39:00",
+      "flight_num": "UA2115",
+      "depart_time": "2017-06-11T10:44:00"
+    },
+    {
+      "agony": 7.814269535673839,
+      "price": 883,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T14:39:00",
+      "flight_num": "UA2117",
+      "depart_time": "2017-06-11T12:44:00"
+    },
+    {
+      "agony": 7.832009080590239,
+      "price": 881,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T16:39:00",
+      "flight_num": "UA2119",
+      "depart_time": "2017-06-11T14:44:00"
+    },
+    {
+      "agony": 7.918088737201365,
+      "price": 879,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T18:40:00",
+      "flight_num": "UA2121",
+      "depart_time": "2017-06-11T16:44:00"
+    },
+    {
+      "agony": 7.936145952109464,
+      "price": 877,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T20:40:00",
+      "flight_num": "UA2123",
+      "depart_time": "2017-06-11T18:44:00"
+    },
+    {
+      "agony": 7.954285714285715,
+      "price": 875,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-11T22:40:00",
+      "flight_num": "UA2125",
+      "depart_time": "2017-06-11T20:44:00"
+    },
+    {
+      "agony": 7.972508591065292,
+      "price": 873,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T00:40:00",
+      "flight_num": "UA2127",
+      "depart_time": "2017-06-11T22:44:00"
+    },
+    {
+      "agony": 7.99081515499426,
+      "price": 871,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T02:40:00",
+      "flight_num": "UA2129",
+      "depart_time": "2017-06-12T00:44:00"
+    },
+    {
+      "agony": 8.009205983889528,
+      "price": 869,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T04:40:00",
+      "flight_num": "UA2131",
+      "depart_time": "2017-06-12T02:44:00"
+    },
+    {
+      "agony": 8.027681660899654,
+      "price": 867,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T06:40:00",
+      "flight_num": "UA2133",
+      "depart_time": "2017-06-12T04:44:00"
+    },
+    {
+      "agony": 8.046242774566474,
+      "price": 865,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T08:40:00",
+      "flight_num": "UA2135",
+      "depart_time": "2017-06-12T06:44:00"
+    },
+    {
+      "agony": 8.064889918887602,
+      "price": 863,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T10:40:00",
+      "flight_num": "UA2137",
+      "depart_time": "2017-06-12T08:44:00"
+    },
+    {
+      "agony": 8.08362369337979,
+      "price": 861,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T12:40:00",
+      "flight_num": "UA2139",
+      "depart_time": "2017-06-12T10:44:00"
+    },
+    {
+      "agony": 8.172293364377182,
+      "price": 859,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T14:41:00",
+      "flight_num": "UA2141",
+      "depart_time": "2017-06-12T12:44:00"
+    },
+    {
+      "agony": 8.191365227537924,
+      "price": 857,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T16:41:00",
+      "flight_num": "UA2143",
+      "depart_time": "2017-06-12T14:44:00"
+    },
+    {
+      "agony": 8.210526315789474,
+      "price": 855,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T18:41:00",
+      "flight_num": "UA2145",
+      "depart_time": "2017-06-12T16:44:00"
+    },
+    {
+      "agony": 8.229777256740915,
+      "price": 853,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T20:41:00",
+      "flight_num": "UA2147",
+      "depart_time": "2017-06-12T18:44:00"
+    },
+    {
+      "agony": 8.249118683901292,
+      "price": 851,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-12T22:41:00",
+      "flight_num": "UA2149",
+      "depart_time": "2017-06-12T20:44:00"
+    },
+    {
+      "agony": 8.268551236749117,
+      "price": 849,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T00:41:00",
+      "flight_num": "UA2151",
+      "depart_time": "2017-06-12T22:44:00"
+    },
+    {
+      "agony": 8.288075560802833,
+      "price": 847,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T02:41:00",
+      "flight_num": "UA2153",
+      "depart_time": "2017-06-13T00:44:00"
+    },
+    {
+      "agony": 8.307692307692308,
+      "price": 845,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T04:41:00",
+      "flight_num": "UA2155",
+      "depart_time": "2017-06-13T02:44:00"
+    },
+    {
+      "agony": 8.327402135231317,
+      "price": 843,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T06:41:00",
+      "flight_num": "UA2157",
+      "depart_time": "2017-06-13T04:44:00"
+    },
+    {
+      "agony": 8.347205707491081,
+      "price": 841,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T08:41:00",
+      "flight_num": "UA2159",
+      "depart_time": "2017-06-13T06:44:00"
+    },
+    {
+      "agony": 8.438617401668653,
+      "price": 839,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T10:42:00",
+      "flight_num": "UA2161",
+      "depart_time": "2017-06-13T08:44:00"
+    },
+    {
+      "agony": 8.45878136200717,
+      "price": 837,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T12:42:00",
+      "flight_num": "UA2163",
+      "depart_time": "2017-06-13T10:44:00"
+    },
+    {
+      "agony": 8.479041916167665,
+      "price": 835,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T14:42:00",
+      "flight_num": "UA2165",
+      "depart_time": "2017-06-13T12:44:00"
+    },
+    {
+      "agony": 8.499399759903962,
+      "price": 833,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T16:42:00",
+      "flight_num": "UA2167",
+      "depart_time": "2017-06-13T14:44:00"
+    },
+    {
+      "agony": 8.51985559566787,
+      "price": 831,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T18:42:00",
+      "flight_num": "UA2169",
+      "depart_time": "2017-06-13T16:44:00"
+    },
+    {
+      "agony": 8.540410132689988,
+      "price": 829,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T20:42:00",
+      "flight_num": "UA2171",
+      "depart_time": "2017-06-13T18:44:00"
+    },
+    {
+      "agony": 8.561064087061668,
+      "price": 827,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-13T22:42:00",
+      "flight_num": "UA2173",
+      "depart_time": "2017-06-13T20:44:00"
+    },
+    {
+      "agony": 8.581818181818182,
+      "price": 825,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T00:42:00",
+      "flight_num": "UA2175",
+      "depart_time": "2017-06-13T22:44:00"
+    },
+    {
+      "agony": 8.602673147023086,
+      "price": 823,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T02:42:00",
+      "flight_num": "UA2177",
+      "depart_time": "2017-06-14T00:44:00"
+    },
+    {
+      "agony": 8.623629719853836,
+      "price": 821,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T04:42:00",
+      "flight_num": "UA2179",
+      "depart_time": "2017-06-14T02:44:00"
+    },
+    {
+      "agony": 8.717948717948717,
+      "price": 819,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T06:43:00",
+      "flight_num": "UA2181",
+      "depart_time": "2017-06-14T04:44:00"
+    },
+    {
+      "agony": 8.739290085679315,
+      "price": 817,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T08:43:00",
+      "flight_num": "UA2183",
+      "depart_time": "2017-06-14T06:44:00"
+    },
+    {
+      "agony": 8.760736196319018,
+      "price": 815,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T10:43:00",
+      "flight_num": "UA2185",
+      "depart_time": "2017-06-14T08:44:00"
+    },
+    {
+      "agony": 8.782287822878228,
+      "price": 813,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T12:43:00",
+      "flight_num": "UA2187",
+      "depart_time": "2017-06-14T10:44:00"
+    },
+    {
+      "agony": 8.803945745992602,
+      "price": 811,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T14:43:00",
+      "flight_num": "UA2189",
+      "depart_time": "2017-06-14T12:44:00"
+    },
+    {
+      "agony": 8.825710754017305,
+      "price": 809,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T16:43:00",
+      "flight_num": "UA2191",
+      "depart_time": "2017-06-14T14:44:00"
+    },
+    {
+      "agony": 8.847583643122677,
+      "price": 807,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T18:43:00",
+      "flight_num": "UA2193",
+      "depart_time": "2017-06-14T16:44:00"
+    },
+    {
+      "agony": 8.869565217391305,
+      "price": 805,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T20:43:00",
+      "flight_num": "UA2195",
+      "depart_time": "2017-06-14T18:44:00"
+    },
+    {
+      "agony": 8.891656288916563,
+      "price": 803,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-14T22:43:00",
+      "flight_num": "UA2197",
+      "depart_time": "2017-06-14T20:44:00"
+    },
+    {
+      "agony": 8.913857677902621,
+      "price": 801,
+      "provider": "Priceline",
+      "arrive_time": "2017-06-15T00:43:00",
+      "flight_num": "UA2199",
+      "depart_time": "2017-06-14T22:44:00"
+    }
+  ]
+}

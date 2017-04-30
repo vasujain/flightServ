@@ -1,0 +1,2404 @@
+{
+  "results": [
+    {
+      "agony": 1.8009004502251125,
+      "price": 1999,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-26T01:43:00",
+      "flight_num": "UA1001",
+      "depart_time": "2017-04-26T00:43:00"
+    },
+    {
+      "agony": 1.8045112781954886,
+      "price": 1995,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-26T05:43:00",
+      "flight_num": "UA1005",
+      "depart_time": "2017-04-26T04:43:00"
+    },
+    {
+      "agony": 1.808136614766449,
+      "price": 1991,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-26T09:43:00",
+      "flight_num": "UA1009",
+      "depart_time": "2017-04-26T08:43:00"
+    },
+    {
+      "agony": 1.8117765475591343,
+      "price": 1987,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-26T13:43:00",
+      "flight_num": "UA1013",
+      "depart_time": "2017-04-26T12:43:00"
+    },
+    {
+      "agony": 1.8154311649016641,
+      "price": 1983,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-26T17:43:00",
+      "flight_num": "UA1017",
+      "depart_time": "2017-04-26T16:43:00"
+    },
+    {
+      "agony": 1.8494188984335522,
+      "price": 1979,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-26T21:44:00",
+      "flight_num": "UA1021",
+      "depart_time": "2017-04-26T20:43:00"
+    },
+    {
+      "agony": 1.8531645569620254,
+      "price": 1975,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-27T01:44:00",
+      "flight_num": "UA1025",
+      "depart_time": "2017-04-27T00:43:00"
+    },
+    {
+      "agony": 1.856925418569254,
+      "price": 1971,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-27T05:44:00",
+      "flight_num": "UA1029",
+      "depart_time": "2017-04-27T04:43:00"
+    },
+    {
+      "agony": 1.860701576004067,
+      "price": 1967,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-27T09:44:00",
+      "flight_num": "UA1033",
+      "depart_time": "2017-04-27T08:43:00"
+    },
+    {
+      "agony": 1.8644931227712684,
+      "price": 1963,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-27T13:44:00",
+      "flight_num": "UA1037",
+      "depart_time": "2017-04-27T12:43:00"
+    },
+    {
+      "agony": 1.898928024502297,
+      "price": 1959,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-27T17:45:00",
+      "flight_num": "UA1041",
+      "depart_time": "2017-04-27T16:43:00"
+    },
+    {
+      "agony": 1.9028132992327367,
+      "price": 1955,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-27T21:45:00",
+      "flight_num": "UA1045",
+      "depart_time": "2017-04-27T20:43:00"
+    },
+    {
+      "agony": 1.9067145053818555,
+      "price": 1951,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-28T01:45:00",
+      "flight_num": "UA1049",
+      "depart_time": "2017-04-28T00:43:00"
+    },
+    {
+      "agony": 1.9106317411402156,
+      "price": 1947,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-28T05:45:00",
+      "flight_num": "UA1053",
+      "depart_time": "2017-04-28T04:43:00"
+    },
+    {
+      "agony": 1.914565105506948,
+      "price": 1943,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-28T09:45:00",
+      "flight_num": "UA1057",
+      "depart_time": "2017-04-28T08:43:00"
+    },
+    {
+      "agony": 1.9494584837545126,
+      "price": 1939,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-28T13:46:00",
+      "flight_num": "UA1061",
+      "depart_time": "2017-04-28T12:43:00"
+    },
+    {
+      "agony": 1.9534883720930232,
+      "price": 1935,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-28T17:46:00",
+      "flight_num": "UA1065",
+      "depart_time": "2017-04-28T16:43:00"
+    },
+    {
+      "agony": 1.9575349559813569,
+      "price": 1931,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-28T21:46:00",
+      "flight_num": "UA1069",
+      "depart_time": "2017-04-28T20:43:00"
+    },
+    {
+      "agony": 1.9615983393876493,
+      "price": 1927,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-29T01:46:00",
+      "flight_num": "UA1073",
+      "depart_time": "2017-04-29T00:43:00"
+    },
+    {
+      "agony": 1.965678627145086,
+      "price": 1923,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-29T05:46:00",
+      "flight_num": "UA1077",
+      "depart_time": "2017-04-29T04:43:00"
+    },
+    {
+      "agony": 2.0010422094841065,
+      "price": 1919,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-29T09:47:00",
+      "flight_num": "UA1081",
+      "depart_time": "2017-04-29T08:43:00"
+    },
+    {
+      "agony": 2.0052219321148823,
+      "price": 1915,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-29T13:47:00",
+      "flight_num": "UA1085",
+      "depart_time": "2017-04-29T12:43:00"
+    },
+    {
+      "agony": 2.009419152276295,
+      "price": 1911,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-29T17:47:00",
+      "flight_num": "UA1089",
+      "depart_time": "2017-04-29T16:43:00"
+    },
+    {
+      "agony": 2.0136339800734135,
+      "price": 1907,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-29T21:47:00",
+      "flight_num": "UA1093",
+      "depart_time": "2017-04-29T20:43:00"
+    },
+    {
+      "agony": 2.0178665265370466,
+      "price": 1903,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-30T01:47:00",
+      "flight_num": "UA1097",
+      "depart_time": "2017-04-30T00:43:00"
+    },
+    {
+      "agony": 2.0537124802527646,
+      "price": 1899,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-30T05:48:00",
+      "flight_num": "UA1101",
+      "depart_time": "2017-04-30T04:43:00"
+    },
+    {
+      "agony": 2.058047493403694,
+      "price": 1895,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-30T09:48:00",
+      "flight_num": "UA1105",
+      "depart_time": "2017-04-30T08:43:00"
+    },
+    {
+      "agony": 2.0624008461131678,
+      "price": 1891,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-30T13:48:00",
+      "flight_num": "UA1109",
+      "depart_time": "2017-04-30T12:43:00"
+    },
+    {
+      "agony": 2.066772655007949,
+      "price": 1887,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-30T17:48:00",
+      "flight_num": "UA1113",
+      "depart_time": "2017-04-30T16:43:00"
+    },
+    {
+      "agony": 2.0711630377057886,
+      "price": 1883,
+      "provider": "Orbitz",
+      "arrive_time": "2017-04-30T21:48:00",
+      "flight_num": "UA1117",
+      "depart_time": "2017-04-30T20:43:00"
+    },
+    {
+      "agony": 2.1075039914848324,
+      "price": 1879,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-01T01:49:00",
+      "flight_num": "UA1121",
+      "depart_time": "2017-05-01T00:43:00"
+    },
+    {
+      "agony": 2.112,
+      "price": 1875,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-01T05:49:00",
+      "flight_num": "UA1125",
+      "depart_time": "2017-05-01T04:43:00"
+    },
+    {
+      "agony": 2.1165152324959915,
+      "price": 1871,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-01T09:49:00",
+      "flight_num": "UA1129",
+      "depart_time": "2017-05-01T08:43:00"
+    },
+    {
+      "agony": 2.1210498125334762,
+      "price": 1867,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-01T13:49:00",
+      "flight_num": "UA1133",
+      "depart_time": "2017-05-01T12:43:00"
+    },
+    {
+      "agony": 2.1256038647342996,
+      "price": 1863,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-01T17:49:00",
+      "flight_num": "UA1137",
+      "depart_time": "2017-05-01T16:43:00"
+    },
+    {
+      "agony": 2.162452931683701,
+      "price": 1859,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-01T21:50:00",
+      "flight_num": "UA1141",
+      "depart_time": "2017-05-01T20:43:00"
+    },
+    {
+      "agony": 2.1671159029649596,
+      "price": 1855,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-02T01:50:00",
+      "flight_num": "UA1145",
+      "depart_time": "2017-05-02T00:43:00"
+    },
+    {
+      "agony": 2.1717990275526744,
+      "price": 1851,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-02T05:50:00",
+      "flight_num": "UA1149",
+      "depart_time": "2017-05-02T04:43:00"
+    },
+    {
+      "agony": 2.1765024363833243,
+      "price": 1847,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-02T09:50:00",
+      "flight_num": "UA1153",
+      "depart_time": "2017-05-02T08:43:00"
+    },
+    {
+      "agony": 2.181226261530114,
+      "price": 1843,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-02T13:50:00",
+      "flight_num": "UA1157",
+      "depart_time": "2017-05-02T12:43:00"
+    },
+    {
+      "agony": 2.2185970636215333,
+      "price": 1839,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-02T17:51:00",
+      "flight_num": "UA1161",
+      "depart_time": "2017-05-02T16:43:00"
+    },
+    {
+      "agony": 2.223433242506812,
+      "price": 1835,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-02T21:51:00",
+      "flight_num": "UA1165",
+      "depart_time": "2017-05-02T20:43:00"
+    },
+    {
+      "agony": 2.2282905516111415,
+      "price": 1831,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-03T01:51:00",
+      "flight_num": "UA1169",
+      "depart_time": "2017-05-03T00:43:00"
+    },
+    {
+      "agony": 2.233169129720854,
+      "price": 1827,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-03T05:51:00",
+      "flight_num": "UA1173",
+      "depart_time": "2017-05-03T04:43:00"
+    },
+    {
+      "agony": 2.238069116840373,
+      "price": 1823,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-03T09:51:00",
+      "flight_num": "UA1177",
+      "depart_time": "2017-05-03T08:43:00"
+    },
+    {
+      "agony": 2.2759758108851016,
+      "price": 1819,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-03T13:52:00",
+      "flight_num": "UA1181",
+      "depart_time": "2017-05-03T12:43:00"
+    },
+    {
+      "agony": 2.28099173553719,
+      "price": 1815,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-03T17:52:00",
+      "flight_num": "UA1185",
+      "depart_time": "2017-05-03T16:43:00"
+    },
+    {
+      "agony": 2.286029817780232,
+      "price": 1811,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-03T21:52:00",
+      "flight_num": "UA1189",
+      "depart_time": "2017-05-03T20:43:00"
+    },
+    {
+      "agony": 2.2910902047592696,
+      "price": 1807,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-04T01:52:00",
+      "flight_num": "UA1193",
+      "depart_time": "2017-05-04T00:43:00"
+    },
+    {
+      "agony": 2.296173044925125,
+      "price": 1803,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-04T05:52:00",
+      "flight_num": "UA1197",
+      "depart_time": "2017-05-04T04:43:00"
+    },
+    {
+      "agony": 2.3346303501945527,
+      "price": 1799,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-04T09:53:00",
+      "flight_num": "UA1201",
+      "depart_time": "2017-05-04T08:43:00"
+    },
+    {
+      "agony": 2.33983286908078,
+      "price": 1795,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-04T13:53:00",
+      "flight_num": "UA1205",
+      "depart_time": "2017-05-04T12:43:00"
+    },
+    {
+      "agony": 2.3450586264656614,
+      "price": 1791,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-04T17:53:00",
+      "flight_num": "UA1209",
+      "depart_time": "2017-05-04T16:43:00"
+    },
+    {
+      "agony": 2.3503077783995523,
+      "price": 1787,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-04T21:53:00",
+      "flight_num": "UA1213",
+      "depart_time": "2017-05-04T20:43:00"
+    },
+    {
+      "agony": 2.3555804823331465,
+      "price": 1783,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-05T01:53:00",
+      "flight_num": "UA1217",
+      "depart_time": "2017-05-05T00:43:00"
+    },
+    {
+      "agony": 2.39460370994941,
+      "price": 1779,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-05T05:54:00",
+      "flight_num": "UA1221",
+      "depart_time": "2017-05-05T04:43:00"
+    },
+    {
+      "agony": 2.4,
+      "price": 1775,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-05T09:54:00",
+      "flight_num": "UA1225",
+      "depart_time": "2017-05-05T08:43:00"
+    },
+    {
+      "agony": 2.4054206662902313,
+      "price": 1771,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-05T13:54:00",
+      "flight_num": "UA1229",
+      "depart_time": "2017-05-05T12:43:00"
+    },
+    {
+      "agony": 2.4108658743633278,
+      "price": 1767,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-05T17:54:00",
+      "flight_num": "UA1233",
+      "depart_time": "2017-05-05T16:43:00"
+    },
+    {
+      "agony": 2.4163357912648893,
+      "price": 1763,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-05T21:54:00",
+      "flight_num": "UA1237",
+      "depart_time": "2017-05-05T20:43:00"
+    },
+    {
+      "agony": 2.4559408754974417,
+      "price": 1759,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-06T01:55:00",
+      "flight_num": "UA1241",
+      "depart_time": "2017-05-06T00:43:00"
+    },
+    {
+      "agony": 2.4615384615384617,
+      "price": 1755,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-06T05:55:00",
+      "flight_num": "UA1245",
+      "depart_time": "2017-05-06T04:43:00"
+    },
+    {
+      "agony": 2.4671616219303254,
+      "price": 1751,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-06T09:55:00",
+      "flight_num": "UA1249",
+      "depart_time": "2017-05-06T08:43:00"
+    },
+    {
+      "agony": 2.4728105323411564,
+      "price": 1747,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-06T13:55:00",
+      "flight_num": "UA1253",
+      "depart_time": "2017-05-06T12:43:00"
+    },
+    {
+      "agony": 2.478485370051635,
+      "price": 1743,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-06T17:55:00",
+      "flight_num": "UA1257",
+      "depart_time": "2017-05-06T16:43:00"
+    },
+    {
+      "agony": 2.518688901667625,
+      "price": 1739,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-06T21:56:00",
+      "flight_num": "UA1261",
+      "depart_time": "2017-05-06T20:43:00"
+    },
+    {
+      "agony": 2.5244956772334293,
+      "price": 1735,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-07T01:56:00",
+      "flight_num": "UA1265",
+      "depart_time": "2017-05-07T00:43:00"
+    },
+    {
+      "agony": 2.5303292894280762,
+      "price": 1731,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-07T05:56:00",
+      "flight_num": "UA1269",
+      "depart_time": "2017-05-07T04:43:00"
+    },
+    {
+      "agony": 2.5361899247249564,
+      "price": 1727,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-07T09:56:00",
+      "flight_num": "UA1273",
+      "depart_time": "2017-05-07T08:43:00"
+    },
+    {
+      "agony": 2.542077771329077,
+      "price": 1723,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-07T13:56:00",
+      "flight_num": "UA1277",
+      "depart_time": "2017-05-07T12:43:00"
+    },
+    {
+      "agony": 2.5828970331588135,
+      "price": 1719,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-07T17:57:00",
+      "flight_num": "UA1281",
+      "depart_time": "2017-05-07T16:43:00"
+    },
+    {
+      "agony": 2.5889212827988337,
+      "price": 1715,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-07T21:57:00",
+      "flight_num": "UA1285",
+      "depart_time": "2017-05-07T20:43:00"
+    },
+    {
+      "agony": 2.5949736995908825,
+      "price": 1711,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-08T01:57:00",
+      "flight_num": "UA1289",
+      "depart_time": "2017-05-08T00:43:00"
+    },
+    {
+      "agony": 2.601054481546573,
+      "price": 1707,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-08T05:57:00",
+      "flight_num": "UA1293",
+      "depart_time": "2017-05-08T04:43:00"
+    },
+    {
+      "agony": 2.607163828537874,
+      "price": 1703,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-08T09:57:00",
+      "flight_num": "UA1297",
+      "depart_time": "2017-05-08T08:43:00"
+    },
+    {
+      "agony": 2.64861683343143,
+      "price": 1699,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-08T13:58:00",
+      "flight_num": "UA1301",
+      "depart_time": "2017-05-08T12:43:00"
+    },
+    {
+      "agony": 2.6548672566371683,
+      "price": 1695,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-08T17:58:00",
+      "flight_num": "UA1305",
+      "depart_time": "2017-05-08T16:43:00"
+    },
+    {
+      "agony": 2.6611472501478417,
+      "price": 1691,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-08T21:58:00",
+      "flight_num": "UA1309",
+      "depart_time": "2017-05-08T20:43:00"
+    },
+    {
+      "agony": 2.667457024303497,
+      "price": 1687,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-09T01:58:00",
+      "flight_num": "UA1313",
+      "depart_time": "2017-05-09T00:43:00"
+    },
+    {
+      "agony": 2.6737967914438503,
+      "price": 1683,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-09T05:58:00",
+      "flight_num": "UA1317",
+      "depart_time": "2017-05-09T04:43:00"
+    },
+    {
+      "agony": 2.715902322811197,
+      "price": 1679,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-09T09:59:00",
+      "flight_num": "UA1321",
+      "depart_time": "2017-05-09T08:43:00"
+    },
+    {
+      "agony": 2.7223880597014927,
+      "price": 1675,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-09T13:59:00",
+      "flight_num": "UA1325",
+      "depart_time": "2017-05-09T12:43:00"
+    },
+    {
+      "agony": 2.7289048473967683,
+      "price": 1671,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-09T17:59:00",
+      "flight_num": "UA1329",
+      "depart_time": "2017-05-09T16:43:00"
+    },
+    {
+      "agony": 2.7354529094181164,
+      "price": 1667,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-09T21:59:00",
+      "flight_num": "UA1333",
+      "depart_time": "2017-05-09T20:43:00"
+    },
+    {
+      "agony": 2.742032471437162,
+      "price": 1663,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-10T01:59:00",
+      "flight_num": "UA1337",
+      "depart_time": "2017-05-10T00:43:00"
+    },
+    {
+      "agony": 2.7848101265822787,
+      "price": 1659,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-10T06:00:00",
+      "flight_num": "UA1341",
+      "depart_time": "2017-05-10T04:43:00"
+    },
+    {
+      "agony": 2.7915407854984893,
+      "price": 1655,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-10T10:00:00",
+      "flight_num": "UA1345",
+      "depart_time": "2017-05-10T08:43:00"
+    },
+    {
+      "agony": 2.7983040581465777,
+      "price": 1651,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-10T14:00:00",
+      "flight_num": "UA1349",
+      "depart_time": "2017-05-10T12:43:00"
+    },
+    {
+      "agony": 2.8051001821493626,
+      "price": 1647,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-10T18:00:00",
+      "flight_num": "UA1353",
+      "depart_time": "2017-05-10T16:43:00"
+    },
+    {
+      "agony": 2.8119293974437007,
+      "price": 1643,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-10T22:00:00",
+      "flight_num": "UA1357",
+      "depart_time": "2017-05-10T20:43:00"
+    },
+    {
+      "agony": 2.855399633923124,
+      "price": 1639,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-11T02:01:00",
+      "flight_num": "UA1361",
+      "depart_time": "2017-05-11T00:43:00"
+    },
+    {
+      "agony": 2.8623853211009176,
+      "price": 1635,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-11T06:01:00",
+      "flight_num": "UA1365",
+      "depart_time": "2017-05-11T04:43:00"
+    },
+    {
+      "agony": 2.8694052728387494,
+      "price": 1631,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-11T10:01:00",
+      "flight_num": "UA1369",
+      "depart_time": "2017-05-11T08:43:00"
+    },
+    {
+      "agony": 2.876459741856177,
+      "price": 1627,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-11T14:01:00",
+      "flight_num": "UA1373",
+      "depart_time": "2017-05-11T12:43:00"
+    },
+    {
+      "agony": 2.8835489833641406,
+      "price": 1623,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-11T18:01:00",
+      "flight_num": "UA1377",
+      "depart_time": "2017-05-11T16:43:00"
+    },
+    {
+      "agony": 2.9277331686226065,
+      "price": 1619,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-11T22:02:00",
+      "flight_num": "UA1381",
+      "depart_time": "2017-05-11T20:43:00"
+    },
+    {
+      "agony": 2.934984520123839,
+      "price": 1615,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-12T02:02:00",
+      "flight_num": "UA1385",
+      "depart_time": "2017-05-12T00:43:00"
+    },
+    {
+      "agony": 2.9422718808193666,
+      "price": 1611,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-12T06:02:00",
+      "flight_num": "UA1389",
+      "depart_time": "2017-05-12T04:43:00"
+    },
+    {
+      "agony": 2.9495955196017425,
+      "price": 1607,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-12T10:02:00",
+      "flight_num": "UA1393",
+      "depart_time": "2017-05-12T08:43:00"
+    },
+    {
+      "agony": 2.956955708047411,
+      "price": 1603,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-12T14:02:00",
+      "flight_num": "UA1397",
+      "depart_time": "2017-05-12T12:43:00"
+    },
+    {
+      "agony": 3.0018761726078798,
+      "price": 1599,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-12T18:03:00",
+      "flight_num": "UA1401",
+      "depart_time": "2017-05-12T16:43:00"
+    },
+    {
+      "agony": 3.0094043887147337,
+      "price": 1595,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-12T22:03:00",
+      "flight_num": "UA1405",
+      "depart_time": "2017-05-12T20:43:00"
+    },
+    {
+      "agony": 3.016970458830924,
+      "price": 1591,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-13T02:03:00",
+      "flight_num": "UA1409",
+      "depart_time": "2017-05-13T00:43:00"
+    },
+    {
+      "agony": 3.0245746691871456,
+      "price": 1587,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-13T06:03:00",
+      "flight_num": "UA1413",
+      "depart_time": "2017-05-13T04:43:00"
+    },
+    {
+      "agony": 3.0322173089071383,
+      "price": 1583,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-13T10:03:00",
+      "flight_num": "UA1417",
+      "depart_time": "2017-05-13T08:43:00"
+    },
+    {
+      "agony": 3.077897403419886,
+      "price": 1579,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-13T14:04:00",
+      "flight_num": "UA1421",
+      "depart_time": "2017-05-13T12:43:00"
+    },
+    {
+      "agony": 3.085714285714286,
+      "price": 1575,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-13T18:04:00",
+      "flight_num": "UA1425",
+      "depart_time": "2017-05-13T16:43:00"
+    },
+    {
+      "agony": 3.0935709739019734,
+      "price": 1571,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-13T22:04:00",
+      "flight_num": "UA1429",
+      "depart_time": "2017-05-13T20:43:00"
+    },
+    {
+      "agony": 3.1014677728142948,
+      "price": 1567,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-14T02:04:00",
+      "flight_num": "UA1433",
+      "depart_time": "2017-05-14T00:43:00"
+    },
+    {
+      "agony": 3.109404990403071,
+      "price": 1563,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-14T06:04:00",
+      "flight_num": "UA1437",
+      "depart_time": "2017-05-14T04:43:00"
+    },
+    {
+      "agony": 3.1558691468890316,
+      "price": 1559,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-14T10:05:00",
+      "flight_num": "UA1441",
+      "depart_time": "2017-05-14T08:43:00"
+    },
+    {
+      "agony": 3.1639871382636655,
+      "price": 1555,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-14T14:05:00",
+      "flight_num": "UA1445",
+      "depart_time": "2017-05-14T12:43:00"
+    },
+    {
+      "agony": 3.172147001934236,
+      "price": 1551,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-14T18:05:00",
+      "flight_num": "UA1449",
+      "depart_time": "2017-05-14T16:43:00"
+    },
+    {
+      "agony": 3.1803490627020037,
+      "price": 1547,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-14T22:05:00",
+      "flight_num": "UA1453",
+      "depart_time": "2017-05-14T20:43:00"
+    },
+    {
+      "agony": 3.1885936487362283,
+      "price": 1543,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-15T02:05:00",
+      "flight_num": "UA1457",
+      "depart_time": "2017-05-15T00:43:00"
+    },
+    {
+      "agony": 3.2358674463937622,
+      "price": 1539,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-15T06:06:00",
+      "flight_num": "UA1461",
+      "depart_time": "2017-05-15T04:43:00"
+    },
+    {
+      "agony": 3.244299674267101,
+      "price": 1535,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-15T10:06:00",
+      "flight_num": "UA1465",
+      "depart_time": "2017-05-15T08:43:00"
+    },
+    {
+      "agony": 3.2527759634225997,
+      "price": 1531,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-15T14:06:00",
+      "flight_num": "UA1469",
+      "depart_time": "2017-05-15T12:43:00"
+    },
+    {
+      "agony": 3.2612966601178783,
+      "price": 1527,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-15T18:06:00",
+      "flight_num": "UA1473",
+      "depart_time": "2017-05-15T16:43:00"
+    },
+    {
+      "agony": 3.2698621142481943,
+      "price": 1523,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-15T22:06:00",
+      "flight_num": "UA1477",
+      "depart_time": "2017-05-15T20:43:00"
+    },
+    {
+      "agony": 3.3179723502304146,
+      "price": 1519,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-16T02:07:00",
+      "flight_num": "UA1481",
+      "depart_time": "2017-05-16T00:43:00"
+    },
+    {
+      "agony": 3.3267326732673266,
+      "price": 1515,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-16T06:07:00",
+      "flight_num": "UA1485",
+      "depart_time": "2017-05-16T04:43:00"
+    },
+    {
+      "agony": 3.3355393778954334,
+      "price": 1511,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-16T10:07:00",
+      "flight_num": "UA1489",
+      "depart_time": "2017-05-16T08:43:00"
+    },
+    {
+      "agony": 3.344392833443928,
+      "price": 1507,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-16T14:07:00",
+      "flight_num": "UA1493",
+      "depart_time": "2017-05-16T12:43:00"
+    },
+    {
+      "agony": 3.3532934131736525,
+      "price": 1503,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-16T18:07:00",
+      "flight_num": "UA1497",
+      "depart_time": "2017-05-16T16:43:00"
+    },
+    {
+      "agony": 3.402268178785857,
+      "price": 1499,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-16T22:08:00",
+      "flight_num": "UA1501",
+      "depart_time": "2017-05-16T20:43:00"
+    },
+    {
+      "agony": 3.411371237458194,
+      "price": 1495,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-17T02:08:00",
+      "flight_num": "UA1505",
+      "depart_time": "2017-05-17T00:43:00"
+    },
+    {
+      "agony": 3.420523138832998,
+      "price": 1491,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-17T06:08:00",
+      "flight_num": "UA1509",
+      "depart_time": "2017-05-17T04:43:00"
+    },
+    {
+      "agony": 3.429724277067922,
+      "price": 1487,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-17T10:08:00",
+      "flight_num": "UA1513",
+      "depart_time": "2017-05-17T08:43:00"
+    },
+    {
+      "agony": 3.4389750505731627,
+      "price": 1483,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-17T14:08:00",
+      "flight_num": "UA1517",
+      "depart_time": "2017-05-17T12:43:00"
+    },
+    {
+      "agony": 3.4888438133874238,
+      "price": 1479,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-17T18:09:00",
+      "flight_num": "UA1521",
+      "depart_time": "2017-05-17T16:43:00"
+    },
+    {
+      "agony": 3.4983050847457626,
+      "price": 1475,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-17T22:09:00",
+      "flight_num": "UA1525",
+      "depart_time": "2017-05-17T20:43:00"
+    },
+    {
+      "agony": 3.5078178110129166,
+      "price": 1471,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-18T02:09:00",
+      "flight_num": "UA1529",
+      "depart_time": "2017-05-18T00:43:00"
+    },
+    {
+      "agony": 3.5173824130879345,
+      "price": 1467,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-18T06:09:00",
+      "flight_num": "UA1533",
+      "depart_time": "2017-05-18T04:43:00"
+    },
+    {
+      "agony": 3.5269993164730007,
+      "price": 1463,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-18T10:09:00",
+      "flight_num": "UA1537",
+      "depart_time": "2017-05-18T08:43:00"
+    },
+    {
+      "agony": 3.5777930089102123,
+      "price": 1459,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-18T14:10:00",
+      "flight_num": "UA1541",
+      "depart_time": "2017-05-18T12:43:00"
+    },
+    {
+      "agony": 3.5876288659793816,
+      "price": 1455,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-18T18:10:00",
+      "flight_num": "UA1545",
+      "depart_time": "2017-05-18T16:43:00"
+    },
+    {
+      "agony": 3.5975189524465887,
+      "price": 1451,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-18T22:10:00",
+      "flight_num": "UA1549",
+      "depart_time": "2017-05-18T20:43:00"
+    },
+    {
+      "agony": 3.6074637180373186,
+      "price": 1447,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-19T02:10:00",
+      "flight_num": "UA1553",
+      "depart_time": "2017-05-19T00:43:00"
+    },
+    {
+      "agony": 3.6174636174636174,
+      "price": 1443,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-19T06:10:00",
+      "flight_num": "UA1557",
+      "depart_time": "2017-05-19T04:43:00"
+    },
+    {
+      "agony": 3.6692147324530926,
+      "price": 1439,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-19T10:11:00",
+      "flight_num": "UA1561",
+      "depart_time": "2017-05-19T08:43:00"
+    },
+    {
+      "agony": 3.6794425087108014,
+      "price": 1435,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-19T14:11:00",
+      "flight_num": "UA1565",
+      "depart_time": "2017-05-19T12:43:00"
+    },
+    {
+      "agony": 3.689727463312369,
+      "price": 1431,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-19T18:11:00",
+      "flight_num": "UA1569",
+      "depart_time": "2017-05-19T16:43:00"
+    },
+    {
+      "agony": 3.7000700770847934,
+      "price": 1427,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-19T22:11:00",
+      "flight_num": "UA1573",
+      "depart_time": "2017-05-19T20:43:00"
+    },
+    {
+      "agony": 3.7104708362614196,
+      "price": 1423,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-20T02:11:00",
+      "flight_num": "UA1577",
+      "depart_time": "2017-05-20T00:43:00"
+    },
+    {
+      "agony": 3.763213530655391,
+      "price": 1419,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-20T06:12:00",
+      "flight_num": "UA1581",
+      "depart_time": "2017-05-20T04:43:00"
+    },
+    {
+      "agony": 3.7738515901060072,
+      "price": 1415,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-20T10:12:00",
+      "flight_num": "UA1585",
+      "depart_time": "2017-05-20T08:43:00"
+    },
+    {
+      "agony": 3.784549964564139,
+      "price": 1411,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-20T14:12:00",
+      "flight_num": "UA1589",
+      "depart_time": "2017-05-20T12:43:00"
+    },
+    {
+      "agony": 3.795309168443497,
+      "price": 1407,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-20T18:12:00",
+      "flight_num": "UA1593",
+      "depart_time": "2017-05-20T16:43:00"
+    },
+    {
+      "agony": 3.8061297220242336,
+      "price": 1403,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-20T22:12:00",
+      "flight_num": "UA1597",
+      "depart_time": "2017-05-20T20:43:00"
+    },
+    {
+      "agony": 3.8598999285203717,
+      "price": 1399,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-21T02:13:00",
+      "flight_num": "UA1601",
+      "depart_time": "2017-05-21T00:43:00"
+    },
+    {
+      "agony": 3.870967741935484,
+      "price": 1395,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-21T06:13:00",
+      "flight_num": "UA1605",
+      "depart_time": "2017-05-21T04:43:00"
+    },
+    {
+      "agony": 3.882099209202013,
+      "price": 1391,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-21T10:13:00",
+      "flight_num": "UA1609",
+      "depart_time": "2017-05-21T08:43:00"
+    },
+    {
+      "agony": 3.8932948810382118,
+      "price": 1387,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-21T14:13:00",
+      "flight_num": "UA1613",
+      "depart_time": "2017-05-21T12:43:00"
+    },
+    {
+      "agony": 3.9045553145336225,
+      "price": 1383,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-21T18:13:00",
+      "flight_num": "UA1617",
+      "depart_time": "2017-05-21T16:43:00"
+    },
+    {
+      "agony": 3.9593908629441623,
+      "price": 1379,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-21T22:14:00",
+      "flight_num": "UA1621",
+      "depart_time": "2017-05-21T20:43:00"
+    },
+    {
+      "agony": 3.9709090909090907,
+      "price": 1375,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-22T02:14:00",
+      "flight_num": "UA1625",
+      "depart_time": "2017-05-22T00:43:00"
+    },
+    {
+      "agony": 3.982494529540481,
+      "price": 1371,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-22T06:14:00",
+      "flight_num": "UA1629",
+      "depart_time": "2017-05-22T04:43:00"
+    },
+    {
+      "agony": 3.994147768836869,
+      "price": 1367,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-22T10:14:00",
+      "flight_num": "UA1633",
+      "depart_time": "2017-05-22T08:43:00"
+    },
+    {
+      "agony": 4.00586940572267,
+      "price": 1363,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-22T14:14:00",
+      "flight_num": "UA1637",
+      "depart_time": "2017-05-22T12:43:00"
+    },
+    {
+      "agony": 4.061810154525387,
+      "price": 1359,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-22T18:15:00",
+      "flight_num": "UA1641",
+      "depart_time": "2017-05-22T16:43:00"
+    },
+    {
+      "agony": 4.07380073800738,
+      "price": 1355,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-22T22:15:00",
+      "flight_num": "UA1645",
+      "depart_time": "2017-05-22T20:43:00"
+    },
+    {
+      "agony": 4.085862324204293,
+      "price": 1351,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-23T02:15:00",
+      "flight_num": "UA1649",
+      "depart_time": "2017-05-23T00:43:00"
+    },
+    {
+      "agony": 4.097995545657016,
+      "price": 1347,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-23T06:15:00",
+      "flight_num": "UA1653",
+      "depart_time": "2017-05-23T04:43:00"
+    },
+    {
+      "agony": 4.110201042442293,
+      "price": 1343,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-23T10:15:00",
+      "flight_num": "UA1657",
+      "depart_time": "2017-05-23T08:43:00"
+    },
+    {
+      "agony": 4.167289021657954,
+      "price": 1339,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-23T14:16:00",
+      "flight_num": "UA1661",
+      "depart_time": "2017-05-23T12:43:00"
+    },
+    {
+      "agony": 4.179775280898877,
+      "price": 1335,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-23T18:16:00",
+      "flight_num": "UA1665",
+      "depart_time": "2017-05-23T16:43:00"
+    },
+    {
+      "agony": 4.192336589030804,
+      "price": 1331,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-23T22:16:00",
+      "flight_num": "UA1669",
+      "depart_time": "2017-05-23T20:43:00"
+    },
+    {
+      "agony": 4.204973624717407,
+      "price": 1327,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-24T02:16:00",
+      "flight_num": "UA1673",
+      "depart_time": "2017-05-24T00:43:00"
+    },
+    {
+      "agony": 4.217687074829932,
+      "price": 1323,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-24T06:16:00",
+      "flight_num": "UA1677",
+      "depart_time": "2017-05-24T04:43:00"
+    },
+    {
+      "agony": 4.275966641394996,
+      "price": 1319,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-24T10:17:00",
+      "flight_num": "UA1681",
+      "depart_time": "2017-05-24T08:43:00"
+    },
+    {
+      "agony": 4.2889733840304185,
+      "price": 1315,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-24T14:17:00",
+      "flight_num": "UA1685",
+      "depart_time": "2017-05-24T12:43:00"
+    },
+    {
+      "agony": 4.302059496567506,
+      "price": 1311,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-24T18:17:00",
+      "flight_num": "UA1689",
+      "depart_time": "2017-05-24T16:43:00"
+    },
+    {
+      "agony": 4.31522570772762,
+      "price": 1307,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-24T22:17:00",
+      "flight_num": "UA1693",
+      "depart_time": "2017-05-24T20:43:00"
+    },
+    {
+      "agony": 4.3284727551803535,
+      "price": 1303,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-25T02:17:00",
+      "flight_num": "UA1697",
+      "depart_time": "2017-05-25T00:43:00"
+    },
+    {
+      "agony": 4.387990762124711,
+      "price": 1299,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-25T06:18:00",
+      "flight_num": "UA1701",
+      "depart_time": "2017-05-25T04:43:00"
+    },
+    {
+      "agony": 4.401544401544402,
+      "price": 1295,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-25T10:18:00",
+      "flight_num": "UA1705",
+      "depart_time": "2017-05-25T08:43:00"
+    },
+    {
+      "agony": 4.415182029434547,
+      "price": 1291,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-25T14:18:00",
+      "flight_num": "UA1709",
+      "depart_time": "2017-05-25T12:43:00"
+    },
+    {
+      "agony": 4.428904428904429,
+      "price": 1287,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-25T18:18:00",
+      "flight_num": "UA1713",
+      "depart_time": "2017-05-25T16:43:00"
+    },
+    {
+      "agony": 4.442712392829306,
+      "price": 1283,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-25T22:18:00",
+      "flight_num": "UA1717",
+      "depart_time": "2017-05-25T20:43:00"
+    },
+    {
+      "agony": 4.503518373729476,
+      "price": 1279,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-26T02:19:00",
+      "flight_num": "UA1721",
+      "depart_time": "2017-05-26T00:43:00"
+    },
+    {
+      "agony": 4.517647058823529,
+      "price": 1275,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-26T06:19:00",
+      "flight_num": "UA1725",
+      "depart_time": "2017-05-26T04:43:00"
+    },
+    {
+      "agony": 4.531864673485445,
+      "price": 1271,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-26T10:19:00",
+      "flight_num": "UA1729",
+      "depart_time": "2017-05-26T08:43:00"
+    },
+    {
+      "agony": 4.546172059984214,
+      "price": 1267,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-26T14:19:00",
+      "flight_num": "UA1733",
+      "depart_time": "2017-05-26T12:43:00"
+    },
+    {
+      "agony": 4.5605700712589075,
+      "price": 1263,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-26T18:19:00",
+      "flight_num": "UA1737",
+      "depart_time": "2017-05-26T16:43:00"
+    },
+    {
+      "agony": 4.622716441620334,
+      "price": 1259,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-26T22:20:00",
+      "flight_num": "UA1741",
+      "depart_time": "2017-05-26T20:43:00"
+    },
+    {
+      "agony": 4.637450199203188,
+      "price": 1255,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-27T02:20:00",
+      "flight_num": "UA1745",
+      "depart_time": "2017-05-27T00:43:00"
+    },
+    {
+      "agony": 4.652278177458034,
+      "price": 1251,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-27T06:20:00",
+      "flight_num": "UA1749",
+      "depart_time": "2017-05-27T04:43:00"
+    },
+    {
+      "agony": 4.6672012830793905,
+      "price": 1247,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-27T10:20:00",
+      "flight_num": "UA1753",
+      "depart_time": "2017-05-27T08:43:00"
+    },
+    {
+      "agony": 4.682220434432824,
+      "price": 1243,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-27T14:20:00",
+      "flight_num": "UA1757",
+      "depart_time": "2017-05-27T12:43:00"
+    },
+    {
+      "agony": 4.745762711864407,
+      "price": 1239,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-27T18:21:00",
+      "flight_num": "UA1761",
+      "depart_time": "2017-05-27T16:43:00"
+    },
+    {
+      "agony": 4.761133603238866,
+      "price": 1235,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-27T22:21:00",
+      "flight_num": "UA1765",
+      "depart_time": "2017-05-27T20:43:00"
+    },
+    {
+      "agony": 4.776604386677498,
+      "price": 1231,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-28T02:21:00",
+      "flight_num": "UA1769",
+      "depart_time": "2017-05-28T00:43:00"
+    },
+    {
+      "agony": 4.792176039119805,
+      "price": 1227,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-28T06:21:00",
+      "flight_num": "UA1773",
+      "depart_time": "2017-05-28T04:43:00"
+    },
+    {
+      "agony": 4.807849550286181,
+      "price": 1223,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-28T10:21:00",
+      "flight_num": "UA1777",
+      "depart_time": "2017-05-28T08:43:00"
+    },
+    {
+      "agony": 4.87284659557014,
+      "price": 1219,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-28T14:22:00",
+      "flight_num": "UA1781",
+      "depart_time": "2017-05-28T12:43:00"
+    },
+    {
+      "agony": 4.888888888888889,
+      "price": 1215,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-28T18:22:00",
+      "flight_num": "UA1785",
+      "depart_time": "2017-05-28T16:43:00"
+    },
+    {
+      "agony": 4.905037159372419,
+      "price": 1211,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-28T22:22:00",
+      "flight_num": "UA1789",
+      "depart_time": "2017-05-28T20:43:00"
+    },
+    {
+      "agony": 4.921292460646231,
+      "price": 1207,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-29T02:22:00",
+      "flight_num": "UA1793",
+      "depart_time": "2017-05-29T00:43:00"
+    },
+    {
+      "agony": 4.937655860349127,
+      "price": 1203,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-29T06:22:00",
+      "flight_num": "UA1797",
+      "depart_time": "2017-05-29T04:43:00"
+    },
+    {
+      "agony": 5.004170141784821,
+      "price": 1199,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-29T10:23:00",
+      "flight_num": "UA1801",
+      "depart_time": "2017-05-29T08:43:00"
+    },
+    {
+      "agony": 5.02092050209205,
+      "price": 1195,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-29T14:23:00",
+      "flight_num": "UA1805",
+      "depart_time": "2017-05-29T12:43:00"
+    },
+    {
+      "agony": 5.037783375314861,
+      "price": 1191,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-29T18:23:00",
+      "flight_num": "UA1809",
+      "depart_time": "2017-05-29T16:43:00"
+    },
+    {
+      "agony": 5.054759898904802,
+      "price": 1187,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-29T22:23:00",
+      "flight_num": "UA1813",
+      "depart_time": "2017-05-29T20:43:00"
+    },
+    {
+      "agony": 5.07185122569738,
+      "price": 1183,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-30T02:23:00",
+      "flight_num": "UA1817",
+      "depart_time": "2017-05-30T00:43:00"
+    },
+    {
+      "agony": 5.139949109414759,
+      "price": 1179,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-30T06:24:00",
+      "flight_num": "UA1821",
+      "depart_time": "2017-05-30T04:43:00"
+    },
+    {
+      "agony": 5.157446808510638,
+      "price": 1175,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-30T10:24:00",
+      "flight_num": "UA1825",
+      "depart_time": "2017-05-30T08:43:00"
+    },
+    {
+      "agony": 5.175064047822374,
+      "price": 1171,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-30T14:24:00",
+      "flight_num": "UA1829",
+      "depart_time": "2017-05-30T12:43:00"
+    },
+    {
+      "agony": 5.19280205655527,
+      "price": 1167,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-30T18:24:00",
+      "flight_num": "UA1833",
+      "depart_time": "2017-05-30T16:43:00"
+    },
+    {
+      "agony": 5.210662080825451,
+      "price": 1163,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-30T22:24:00",
+      "flight_num": "UA1837",
+      "depart_time": "2017-05-30T20:43:00"
+    },
+    {
+      "agony": 5.280414150129422,
+      "price": 1159,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-31T02:25:00",
+      "flight_num": "UA1841",
+      "depart_time": "2017-05-31T00:43:00"
+    },
+    {
+      "agony": 5.298701298701299,
+      "price": 1155,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-31T06:25:00",
+      "flight_num": "UA1845",
+      "depart_time": "2017-05-31T04:43:00"
+    },
+    {
+      "agony": 5.317115551694179,
+      "price": 1151,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-31T10:25:00",
+      "flight_num": "UA1849",
+      "depart_time": "2017-05-31T08:43:00"
+    },
+    {
+      "agony": 5.3356582388840454,
+      "price": 1147,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-31T14:25:00",
+      "flight_num": "UA1853",
+      "depart_time": "2017-05-31T12:43:00"
+    },
+    {
+      "agony": 5.354330708661418,
+      "price": 1143,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-31T18:25:00",
+      "flight_num": "UA1857",
+      "depart_time": "2017-05-31T16:43:00"
+    },
+    {
+      "agony": 5.425812115891133,
+      "price": 1139,
+      "provider": "Orbitz",
+      "arrive_time": "2017-05-31T22:26:00",
+      "flight_num": "UA1861",
+      "depart_time": "2017-05-31T20:43:00"
+    },
+    {
+      "agony": 5.4449339207048455,
+      "price": 1135,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-01T02:26:00",
+      "flight_num": "UA1865",
+      "depart_time": "2017-06-01T00:43:00"
+    },
+    {
+      "agony": 5.464190981432361,
+      "price": 1131,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-01T06:26:00",
+      "flight_num": "UA1869",
+      "depart_time": "2017-06-01T04:43:00"
+    },
+    {
+      "agony": 5.483584738243123,
+      "price": 1127,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-01T10:26:00",
+      "flight_num": "UA1873",
+      "depart_time": "2017-06-01T08:43:00"
+    },
+    {
+      "agony": 5.503116651825468,
+      "price": 1123,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-01T14:26:00",
+      "flight_num": "UA1877",
+      "depart_time": "2017-06-01T12:43:00"
+    },
+    {
+      "agony": 5.576407506702413,
+      "price": 1119,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-01T18:27:00",
+      "flight_num": "UA1881",
+      "depart_time": "2017-06-01T16:43:00"
+    },
+    {
+      "agony": 5.596412556053812,
+      "price": 1115,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-01T22:27:00",
+      "flight_num": "UA1885",
+      "depart_time": "2017-06-01T20:43:00"
+    },
+    {
+      "agony": 5.616561656165617,
+      "price": 1111,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-02T02:27:00",
+      "flight_num": "UA1889",
+      "depart_time": "2017-06-02T00:43:00"
+    },
+    {
+      "agony": 5.636856368563685,
+      "price": 1107,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-02T06:27:00",
+      "flight_num": "UA1893",
+      "depart_time": "2017-06-02T04:43:00"
+    },
+    {
+      "agony": 5.657298277425204,
+      "price": 1103,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-02T10:27:00",
+      "flight_num": "UA1897",
+      "depart_time": "2017-06-02T08:43:00"
+    },
+    {
+      "agony": 5.732484076433121,
+      "price": 1099,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-02T14:28:00",
+      "flight_num": "UA1901",
+      "depart_time": "2017-06-02T12:43:00"
+    },
+    {
+      "agony": 5.7534246575342465,
+      "price": 1095,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-02T18:28:00",
+      "flight_num": "UA1905",
+      "depart_time": "2017-06-02T16:43:00"
+    },
+    {
+      "agony": 5.774518790100825,
+      "price": 1091,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-02T22:28:00",
+      "flight_num": "UA1909",
+      "depart_time": "2017-06-02T20:43:00"
+    },
+    {
+      "agony": 5.795768169273229,
+      "price": 1087,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-03T02:28:00",
+      "flight_num": "UA1913",
+      "depart_time": "2017-06-03T00:43:00"
+    },
+    {
+      "agony": 5.8171745152354575,
+      "price": 1083,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-03T06:28:00",
+      "flight_num": "UA1917",
+      "depart_time": "2017-06-03T04:43:00"
+    },
+    {
+      "agony": 5.894346617238184,
+      "price": 1079,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-03T10:29:00",
+      "flight_num": "UA1921",
+      "depart_time": "2017-06-03T08:43:00"
+    },
+    {
+      "agony": 5.916279069767442,
+      "price": 1075,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-03T14:29:00",
+      "flight_num": "UA1925",
+      "depart_time": "2017-06-03T12:43:00"
+    },
+    {
+      "agony": 5.938375350140056,
+      "price": 1071,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-03T18:29:00",
+      "flight_num": "UA1929",
+      "depart_time": "2017-06-03T16:43:00"
+    },
+    {
+      "agony": 5.960637300843486,
+      "price": 1067,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-03T22:29:00",
+      "flight_num": "UA1933",
+      "depart_time": "2017-06-03T20:43:00"
+    },
+    {
+      "agony": 5.983066792097836,
+      "price": 1063,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-04T02:29:00",
+      "flight_num": "UA1937",
+      "depart_time": "2017-06-04T00:43:00"
+    },
+    {
+      "agony": 6.062322946175637,
+      "price": 1059,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-04T06:30:00",
+      "flight_num": "UA1941",
+      "depart_time": "2017-06-04T04:43:00"
+    },
+    {
+      "agony": 6.085308056872038,
+      "price": 1055,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-04T10:30:00",
+      "flight_num": "UA1945",
+      "depart_time": "2017-06-04T08:43:00"
+    },
+    {
+      "agony": 6.108468125594672,
+      "price": 1051,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-04T14:30:00",
+      "flight_num": "UA1949",
+      "depart_time": "2017-06-04T12:43:00"
+    },
+    {
+      "agony": 6.131805157593123,
+      "price": 1047,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-04T18:30:00",
+      "flight_num": "UA1953",
+      "depart_time": "2017-06-04T16:43:00"
+    },
+    {
+      "agony": 6.1553211888782355,
+      "price": 1043,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-04T22:30:00",
+      "flight_num": "UA1957",
+      "depart_time": "2017-06-04T20:43:00"
+    },
+    {
+      "agony": 6.236766121270453,
+      "price": 1039,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-05T02:31:00",
+      "flight_num": "UA1961",
+      "depart_time": "2017-06-05T00:43:00"
+    },
+    {
+      "agony": 6.260869565217392,
+      "price": 1035,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-05T06:31:00",
+      "flight_num": "UA1965",
+      "depart_time": "2017-06-05T04:43:00"
+    },
+    {
+      "agony": 6.285160038797284,
+      "price": 1031,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-05T10:31:00",
+      "flight_num": "UA1969",
+      "depart_time": "2017-06-05T08:43:00"
+    },
+    {
+      "agony": 6.309639727361247,
+      "price": 1027,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-05T14:31:00",
+      "flight_num": "UA1973",
+      "depart_time": "2017-06-05T12:43:00"
+    },
+    {
+      "agony": 6.334310850439882,
+      "price": 1023,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-05T18:31:00",
+      "flight_num": "UA1977",
+      "depart_time": "2017-06-05T16:43:00"
+    },
+    {
+      "agony": 6.418056918547595,
+      "price": 1019,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-05T22:32:00",
+      "flight_num": "UA1981",
+      "depart_time": "2017-06-05T20:43:00"
+    },
+    {
+      "agony": 6.443349753694581,
+      "price": 1015,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-06T02:32:00",
+      "flight_num": "UA1985",
+      "depart_time": "2017-06-06T00:43:00"
+    },
+    {
+      "agony": 6.468842729970326,
+      "price": 1011,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-06T06:32:00",
+      "flight_num": "UA1989",
+      "depart_time": "2017-06-06T04:43:00"
+    },
+    {
+      "agony": 6.494538232373387,
+      "price": 1007,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-06T10:32:00",
+      "flight_num": "UA1993",
+      "depart_time": "2017-06-06T08:43:00"
+    },
+    {
+      "agony": 6.520438683948155,
+      "price": 1003,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-06T14:32:00",
+      "flight_num": "UA1997",
+      "depart_time": "2017-06-06T12:43:00"
+    },
+    {
+      "agony": 6.606606606606607,
+      "price": 999,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-06T18:33:00",
+      "flight_num": "UA2001",
+      "depart_time": "2017-06-06T16:43:00"
+    },
+    {
+      "agony": 6.633165829145729,
+      "price": 995,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-06T22:33:00",
+      "flight_num": "UA2005",
+      "depart_time": "2017-06-06T20:43:00"
+    },
+    {
+      "agony": 6.659939455095863,
+      "price": 991,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-07T02:33:00",
+      "flight_num": "UA2009",
+      "depart_time": "2017-06-07T00:43:00"
+    },
+    {
+      "agony": 6.686930091185411,
+      "price": 987,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-07T06:33:00",
+      "flight_num": "UA2013",
+      "depart_time": "2017-06-07T04:43:00"
+    },
+    {
+      "agony": 6.714140386571719,
+      "price": 983,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-07T10:33:00",
+      "flight_num": "UA2017",
+      "depart_time": "2017-06-07T08:43:00"
+    },
+    {
+      "agony": 6.802860061287028,
+      "price": 979,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-07T14:34:00",
+      "flight_num": "UA2021",
+      "depart_time": "2017-06-07T12:43:00"
+    },
+    {
+      "agony": 6.8307692307692305,
+      "price": 975,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-07T18:34:00",
+      "flight_num": "UA2025",
+      "depart_time": "2017-06-07T16:43:00"
+    },
+    {
+      "agony": 6.8589083419155505,
+      "price": 971,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-07T22:34:00",
+      "flight_num": "UA2029",
+      "depart_time": "2017-06-07T20:43:00"
+    },
+    {
+      "agony": 6.8872802481902795,
+      "price": 967,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-08T02:34:00",
+      "flight_num": "UA2033",
+      "depart_time": "2017-06-08T00:43:00"
+    },
+    {
+      "agony": 6.91588785046729,
+      "price": 963,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-08T06:34:00",
+      "flight_num": "UA2037",
+      "depart_time": "2017-06-08T04:43:00"
+    },
+    {
+      "agony": 7.007299270072993,
+      "price": 959,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-08T10:35:00",
+      "flight_num": "UA2041",
+      "depart_time": "2017-06-08T08:43:00"
+    },
+    {
+      "agony": 7.036649214659686,
+      "price": 955,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-08T14:35:00",
+      "flight_num": "UA2045",
+      "depart_time": "2017-06-08T12:43:00"
+    },
+    {
+      "agony": 7.066246056782334,
+      "price": 951,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-08T18:35:00",
+      "flight_num": "UA2049",
+      "depart_time": "2017-06-08T16:43:00"
+    },
+    {
+      "agony": 7.096092925026399,
+      "price": 947,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-08T22:35:00",
+      "flight_num": "UA2053",
+      "depart_time": "2017-06-08T20:43:00"
+    },
+    {
+      "agony": 7.126193001060446,
+      "price": 943,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-09T02:35:00",
+      "flight_num": "UA2057",
+      "depart_time": "2017-06-09T00:43:00"
+    },
+    {
+      "agony": 7.220447284345048,
+      "price": 939,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-09T06:36:00",
+      "flight_num": "UA2061",
+      "depart_time": "2017-06-09T04:43:00"
+    },
+    {
+      "agony": 7.251336898395722,
+      "price": 935,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-09T10:36:00",
+      "flight_num": "UA2065",
+      "depart_time": "2017-06-09T08:43:00"
+    },
+    {
+      "agony": 7.28249194414608,
+      "price": 931,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-09T14:36:00",
+      "flight_num": "UA2069",
+      "depart_time": "2017-06-09T12:43:00"
+    },
+    {
+      "agony": 7.313915857605178,
+      "price": 927,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-09T18:36:00",
+      "flight_num": "UA2073",
+      "depart_time": "2017-06-09T16:43:00"
+    },
+    {
+      "agony": 7.345612134344528,
+      "price": 923,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-09T22:36:00",
+      "flight_num": "UA2077",
+      "depart_time": "2017-06-09T20:43:00"
+    },
+    {
+      "agony": 7.4428726877040265,
+      "price": 919,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-10T02:37:00",
+      "flight_num": "UA2081",
+      "depart_time": "2017-06-10T00:43:00"
+    },
+    {
+      "agony": 7.475409836065574,
+      "price": 915,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-10T06:37:00",
+      "flight_num": "UA2085",
+      "depart_time": "2017-06-10T04:43:00"
+    },
+    {
+      "agony": 7.508232711306257,
+      "price": 911,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-10T10:37:00",
+      "flight_num": "UA2089",
+      "depart_time": "2017-06-10T08:43:00"
+    },
+    {
+      "agony": 7.541345093715546,
+      "price": 907,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-10T14:37:00",
+      "flight_num": "UA2093",
+      "depart_time": "2017-06-10T12:43:00"
+    },
+    {
+      "agony": 7.574750830564784,
+      "price": 903,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-10T18:37:00",
+      "flight_num": "UA2097",
+      "depart_time": "2017-06-10T16:43:00"
+    },
+    {
+      "agony": 7.6751946607341495,
+      "price": 899,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-10T22:38:00",
+      "flight_num": "UA2101",
+      "depart_time": "2017-06-10T20:43:00"
+    },
+    {
+      "agony": 7.709497206703911,
+      "price": 895,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-11T02:38:00",
+      "flight_num": "UA2105",
+      "depart_time": "2017-06-11T00:43:00"
+    },
+    {
+      "agony": 7.744107744107744,
+      "price": 891,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-11T06:38:00",
+      "flight_num": "UA2109",
+      "depart_time": "2017-06-11T04:43:00"
+    },
+    {
+      "agony": 7.7790304396843295,
+      "price": 887,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-11T10:38:00",
+      "flight_num": "UA2113",
+      "depart_time": "2017-06-11T08:43:00"
+    },
+    {
+      "agony": 7.814269535673839,
+      "price": 883,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-11T14:38:00",
+      "flight_num": "UA2117",
+      "depart_time": "2017-06-11T12:43:00"
+    },
+    {
+      "agony": 7.918088737201365,
+      "price": 879,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-11T18:39:00",
+      "flight_num": "UA2121",
+      "depart_time": "2017-06-11T16:43:00"
+    },
+    {
+      "agony": 7.954285714285715,
+      "price": 875,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-11T22:39:00",
+      "flight_num": "UA2125",
+      "depart_time": "2017-06-11T20:43:00"
+    },
+    {
+      "agony": 7.99081515499426,
+      "price": 871,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-12T02:39:00",
+      "flight_num": "UA2129",
+      "depart_time": "2017-06-12T00:43:00"
+    },
+    {
+      "agony": 8.027681660899654,
+      "price": 867,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-12T06:39:00",
+      "flight_num": "UA2133",
+      "depart_time": "2017-06-12T04:43:00"
+    },
+    {
+      "agony": 8.064889918887602,
+      "price": 863,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-12T10:39:00",
+      "flight_num": "UA2137",
+      "depart_time": "2017-06-12T08:43:00"
+    },
+    {
+      "agony": 8.172293364377182,
+      "price": 859,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-12T14:40:00",
+      "flight_num": "UA2141",
+      "depart_time": "2017-06-12T12:43:00"
+    },
+    {
+      "agony": 8.210526315789474,
+      "price": 855,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-12T18:40:00",
+      "flight_num": "UA2145",
+      "depart_time": "2017-06-12T16:43:00"
+    },
+    {
+      "agony": 8.249118683901292,
+      "price": 851,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-12T22:40:00",
+      "flight_num": "UA2149",
+      "depart_time": "2017-06-12T20:43:00"
+    },
+    {
+      "agony": 8.288075560802833,
+      "price": 847,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-13T02:40:00",
+      "flight_num": "UA2153",
+      "depart_time": "2017-06-13T00:43:00"
+    },
+    {
+      "agony": 8.327402135231317,
+      "price": 843,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-13T06:40:00",
+      "flight_num": "UA2157",
+      "depart_time": "2017-06-13T04:43:00"
+    },
+    {
+      "agony": 8.438617401668653,
+      "price": 839,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-13T10:41:00",
+      "flight_num": "UA2161",
+      "depart_time": "2017-06-13T08:43:00"
+    },
+    {
+      "agony": 8.479041916167665,
+      "price": 835,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-13T14:41:00",
+      "flight_num": "UA2165",
+      "depart_time": "2017-06-13T12:43:00"
+    },
+    {
+      "agony": 8.51985559566787,
+      "price": 831,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-13T18:41:00",
+      "flight_num": "UA2169",
+      "depart_time": "2017-06-13T16:43:00"
+    },
+    {
+      "agony": 8.561064087061668,
+      "price": 827,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-13T22:41:00",
+      "flight_num": "UA2173",
+      "depart_time": "2017-06-13T20:43:00"
+    },
+    {
+      "agony": 8.602673147023086,
+      "price": 823,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-14T02:41:00",
+      "flight_num": "UA2177",
+      "depart_time": "2017-06-14T00:43:00"
+    },
+    {
+      "agony": 8.717948717948717,
+      "price": 819,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-14T06:42:00",
+      "flight_num": "UA2181",
+      "depart_time": "2017-06-14T04:43:00"
+    },
+    {
+      "agony": 8.760736196319018,
+      "price": 815,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-14T10:42:00",
+      "flight_num": "UA2185",
+      "depart_time": "2017-06-14T08:43:00"
+    },
+    {
+      "agony": 8.803945745992602,
+      "price": 811,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-14T14:42:00",
+      "flight_num": "UA2189",
+      "depart_time": "2017-06-14T12:43:00"
+    },
+    {
+      "agony": 8.847583643122677,
+      "price": 807,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-14T18:42:00",
+      "flight_num": "UA2193",
+      "depart_time": "2017-06-14T16:43:00"
+    },
+    {
+      "agony": 8.891656288916563,
+      "price": 803,
+      "provider": "Orbitz",
+      "arrive_time": "2017-06-14T22:42:00",
+      "flight_num": "UA2197",
+      "depart_time": "2017-06-14T20:43:00"
+    }
+  ]
+}
